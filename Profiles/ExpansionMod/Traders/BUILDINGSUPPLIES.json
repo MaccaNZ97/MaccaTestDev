@@ -1,0 +1,36 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Building Supplies",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Nails",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "Categories": [
+    "ELECTRONICS",
+    "CONTAINERS",
+    "SUPPLIES",
+    "BASE BUIILDING PLUS",
+    "NAVIGATION",
+    "TOOLS",
+    "TENTS",
+    "LIGHTS",
+    "LOCKS",
+    "FLAGS",
+    "BASE BUILDING EXPANSION",
+    "FURNISHINGS",
+    "GARDENING",
+    "KITS",
+    "MMG_STORAGE:2"
+  ],
+  "Items": {
+    "battery9v": 1,
+    "carbattery": 1,
+    "truckbattery": 1
+  }
+}

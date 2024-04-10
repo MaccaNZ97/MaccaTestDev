@@ -1,0 +1,14 @@
+2024-04-05 18:09:02: == Sync Started by User Command
+2024-04-05 18:09:02: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-05 18:09:02: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-05 18:09:02: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-05 18:09:02: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-05 18:09:02: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-05 18:09:02: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-05 18:09:02: Copy Over 'D:/Github/MaccaTestDev/Profiles/FDMissions/FDM-Loot.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/FDMissions/FDM-Loot.json' (13,824) (User Action)
+2024-04-05 18:09:02: Copy Over 'D:/Github/MaccaTestDev/Profiles/CodeLock/CodeLockConfig.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CodeLock/CodeLockConfig.json' (440) (User Action)
+2024-04-05 18:09:02: Copy Over 'D:/Github/MaccaTestDev/Profiles/CodeLock/CodeLockPerms.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CodeLock/CodeLockPerms.json' (416) (User Action)
+2024-04-05 18:09:02: Copy Over 'D:/Github/MaccaTestDev/Profiles/KOTH/Loot.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/KOTH/Loot.json' (10,270) (User Action)
+2024-04-05 18:09:03: Save State File D:/Github/MaccaTestDev/Profiles/_gsdata_/_file_state_v4._gs
+2024-04-05 18:09:03: Save State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/_gsdata_/_file_state_v4._gs
+2024-04-05 18:09:03: == Sync Complete. Time: 00:00:01, Speed: 0.00/s, OK: 4, Errors: 0

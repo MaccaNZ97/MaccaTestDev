@@ -1,0 +1,24 @@
+2024-04-02 17:38:25: == Sync Started by User Command
+2024-04-02 17:38:25: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-02 17:38:25: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-02 17:38:25: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-02 17:38:25: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-02 17:38:25: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-02 17:38:25: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-02 17:38:26: Copy Over 'D:/Github/MaccaTestDev/Profiles/CustomKeycards/config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CustomKeycards/config.json' (17,263)
+2024-04-02 17:38:26: Copy Over 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/System/Mobs/KeyCard_Mob_System_Config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/System/Mobs/KeyCard_Mob_System_Config.json' (7,260)
+2024-04-02 17:38:26: D:/Github/MaccaTestDev/Profiles/DNA_Keycards/System/Main/KeyCard_Main_System_Config.json: Source file has changed between Analyze and Sync from '[file] size=23,122 accu-time=2024-04-02 17:37:36 attr=Archive,WArchive cktype=0' to 'size=23,122 time=2024-04-02 17:38:09', noted in source file state
+2024-04-02 17:38:26: Copy Over 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/System/Main/KeyCard_Main_System_Config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/System/Main/KeyCard_Main_System_Config.json' (23,122)
+2024-04-02 17:38:26: Copy Over 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/System/LootContainers/KeyCard_LootContainers_System_Config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/System/LootContainers/KeyCard_LootContainers_System_Config.json' (48,348)
+2024-04-02 17:38:26: Copy Over 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/Loot/Other/@Config_Description_and_Activation.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/Loot/Other/@Config_Description_and_Activation.json' (497)
+2024-04-02 17:38:26: Copy Over 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/Loot/Other/Smol_Blue_Config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/Loot/Other/Smol_Blue_Config.json' (2,603)
+2024-04-02 17:38:26: Copy Over 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/Loot/Clothing/KeyCard_Clothing_Config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/Loot/Clothing/KeyCard_Clothing_Config.json' (2,476)
+2024-04-02 17:38:26: Copy Over 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/Loot/General/KeyCard_General_Config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/Loot/General/KeyCard_General_Config.json' (2,446)
+2024-04-02 17:38:26: Copy Over 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/Loot/Other/Smol_Green_Config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/Loot/Other/Smol_Green_Config.json' (2,490)
+2024-04-02 17:38:26: Copy Over 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/Loot/Other/Smol_Purple_Config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/Loot/Other/Smol_Purple_Config.json' (2,592)
+2024-04-02 17:38:26: Copy Over 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/Loot/Other/Smol_Red_Config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/Loot/Other/Smol_Red_Config.json' (2,511)
+2024-04-02 17:38:26: Copy Over 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/Loot/Other/Smol_Yellow_Config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/Loot/Other/Smol_Yellow_Config.json' (2,479)
+2024-04-02 17:38:26: Copy Over 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/Loot/Weapons/KeyCard_Weapons_Config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/Loot/Weapons/KeyCard_Weapons_Config.json' (8,155)
+2024-04-02 17:38:26: Save State File D:/Github/MaccaTestDev/Profiles/_gsdata_/_file_state_v4._gs
+2024-04-02 17:38:26: Save State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/_gsdata_/_file_state_v4._gs
+2024-04-02 17:38:26: == Sync Complete. Time: 00:00:01, Speed: 0.00/s, OK: 13, Errors: 0

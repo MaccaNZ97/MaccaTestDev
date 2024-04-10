@@ -1,0 +1,353 @@
+{
+  "m_Version": 12,
+  "DisplayName": "CannabisPlus",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "cigarettepack_chernamorka",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 855,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cigarettepack_merkur",
+        "cigarettepack_partyzanka"
+      ]
+    },
+    {
+      "ClassName": "cp_bagger",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 47500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbagskunk",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1140,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cp_cannabisbagblue",
+        "cp_cannabisbagkush",
+        "cp_cannabisbagstardawg",
+        "cp_cannabisbagfuture",
+        "cp_cannabisbags1",
+        "cp_cannabisbagnomad",
+        "cp_cannabisbagblackfrost"
+      ]
+    },
+    {
+      "ClassName": "cp_cannabisbrickblackfrost",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 28500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbrickblue",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 28500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbrickfuture",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 28500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbrickkush",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 28500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbricknomad",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 28500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbricks1",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 28500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbrickskunk",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 28500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cp_cannabisbrickblue",
+        "cp_cannabisbrickkush",
+        "cp_cannabisbrickstardawg",
+        "cp_cannabisbrickfuture",
+        "cp_cannabisbricks1",
+        "cp_cannabisbricknomad",
+        "cp_cannabisbrickblackfrost"
+      ]
+    },
+    {
+      "ClassName": "cp_cannabisbrickstardawg",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 28500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedspackskunk",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1425,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cp_cannabisseedspackblue",
+        "cp_cannabisseedspackkush",
+        "cp_cannabisseedspackstardawg",
+        "cp_cannabisseedspackfuture",
+        "cp_cannabisseedspacks1",
+        "cp_cannabisseedspacknomad",
+        "cp_cannabisseedspackblackfrost"
+      ]
+    },
+    {
+      "ClassName": "cp_cigarettepack_cannabisskunk",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1140,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cp_cigarettepack_cannabisblue",
+        "cp_cigarettepack_cannabiskush",
+        "cp_cigarettepack_cannabisstardawg",
+        "cp_cigarettepack_cannabisfuture",
+        "cp_cigarettepack_cannabiss1",
+        "cp_cigarettepack_cannabisnomad",
+        "cp_cigarettepack_cannabisblackfrost"
+      ]
+    },
+    {
+      "ClassName": "cp_drypost_kit",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 47500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_emptybag",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 475,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_plasticroll",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 4750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_plasticwrapper",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 47500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_relief_balm",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 190,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_rollingpapers",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 190,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_workbench_kit",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 142500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedsblackfrost",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1425,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedsblue",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1425,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedsfuture",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1425,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedskush",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1425,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedsnomad",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1425,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedss1",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1425,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedsskunk",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1425,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedsstardawg",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1425,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

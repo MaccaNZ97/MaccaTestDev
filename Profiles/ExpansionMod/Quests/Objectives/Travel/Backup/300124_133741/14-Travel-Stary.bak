@@ -1,0 +1,18 @@
+{
+  "ObjectiveText": "Travel to Plotina Pobeda",
+  "TimeLimit": -1,
+  "Active": 0,
+  "Position": [
+    10028.9,
+    65.8102,
+    13862.8
+  ],
+  "MaxDistance": -1,
+  "MarkerName": "Polinta Pobeda",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 26,
+  "ID": 14,
+  "ObjectiveType": 3
+}

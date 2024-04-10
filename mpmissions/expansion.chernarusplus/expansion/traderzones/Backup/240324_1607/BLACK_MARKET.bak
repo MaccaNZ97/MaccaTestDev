@@ -1,0 +1,13 @@
+{
+  "m_Version": 6,
+  "m_DisplayName": "BLACK_MARKET",
+  "Position": [
+    7679,
+    78.7894974,
+    3267
+  ],
+  "Radius": 200,
+  "BuyPricePercent": 100,
+  "SellPricePercent": -1,
+  "Stock": {}
+}

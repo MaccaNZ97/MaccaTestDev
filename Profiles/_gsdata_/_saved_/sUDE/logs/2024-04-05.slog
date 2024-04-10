@@ -1,0 +1,508 @@
+====================================================================
+                      2024/04/05 04:36:32 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-H71K420
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 45.782
+                  World name    : chernarusplus
+                  Game version  : 1.24.157623
+                  Mods          : 
+                  	- @CF
+                  	- @Dabs Framework
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Animations
+                  	- @DayZ Editor Loader
+                  	- @FoXyRadio
+                  	- @FoXyExpansion
+                  	- @MaccaTestPack
+                  	- @Custom Keycards
+                  	- @DNA Keycards
+                  	- @Community-Online-Tools
+                  	- @Huffys Bio-Hazard Bears
+                  	- @Huffys Cocaine Bear
+                  	- @Huffys Horror Bears
+                  	- @AJs Creatures
+                  	- @Code Lock
+                  	- @RayZrsEdge_MMG Base Storage
+                  	- @SpawnerBubaku
+                  	- @CZ No-Fly Zones
+                  	- @SNAFU Weapons
+                  	- @Chims_Snafu_Reload_Fix
+                  	- @BaseBuildingPlus
+                  	- @Arma 2 Helicopters Remastered
+                  	- @ArrakisTraderSigns
+                  	- @Fo
+--------------------------------------------------------------------
+
+04:36:32 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+04:36:32 [ee] ::SFileHelper::cat : The file [ $profile:\sUDE\config\sGunplay_constraints.json ] doesn't exists
+04:36:32 [ww] ::SUserConfigConstraints : Couldn't load neither user config constraint [ $profile:\sUDE\config\sGunplay_constraints.json ]
+04:36:32 [ii] │	├ ::SUserConfigConstraints : Creating SUserConfigConstraints_Gunplay config constraint file : $profile:\sUDE\config\sGunplay_constraints.json
+04:36:32 [ii] │	│	├ Done
+04:36:32 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<4cf08cb0>
+====================================================================
+                      2024/04/05 04:40:13 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-H71K420
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 44.958
+                  World name    : chernarusplus
+                  Game version  : 1.24.157623
+                  Mods          : 
+                  	- @CF
+                  	- @Dabs Framework
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Animations
+                  	- @DayZ Editor Loader
+                  	- @FoXyRadio
+                  	- @FoXyExpansion
+                  	- @MaccaTestPack
+                  	- @Custom Keycards
+                  	- @DNA Keycards
+                  	- @Community-Online-Tools
+                  	- @Huffys Bio-Hazard Bears
+                  	- @Huffys Cocaine Bear
+                  	- @Huffys Horror Bears
+                  	- @AJs Creatures
+                  	- @Code Lock
+                  	- @RayZrsEdge_MMG Base Storage
+                  	- @SpawnerBubaku
+                  	- @CZ No-Fly Zones
+                  	- @SNAFU Weapons
+                  	- @Chims_Snafu_Reload_Fix
+                  	- @BaseBuildingPlus
+                  	- @Arma 2 Helicopters Remastered
+                  	- @ArrakisTraderSigns
+                  	- @Fo
+--------------------------------------------------------------------
+
+04:40:13 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+04:40:13 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<346b1020>
+====================================================================
+                      2024/04/05 04:44:32 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-H71K420
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 49.872
+                  World name    : chernarusplus
+                  Game version  : 1.24.157623
+                  Mods          : 
+                  	- @CF
+                  	- @Dabs Framework
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Animations
+                  	- @DayZ Editor Loader
+                  	- @FoXyRadio
+                  	- @FoXyExpansion
+                  	- @MaccaTestPack
+                  	- @Custom Keycards
+                  	- @DNA Keycards
+                  	- @Community-Online-Tools
+                  	- @Huffys Bio-Hazard Bears
+                  	- @Huffys Cocaine Bear
+                  	- @Huffys Horror Bears
+                  	- @AJs Creatures
+                  	- @Code Lock
+                  	- @RayZrsEdge_MMG Base Storage
+                  	- @SpawnerBubaku
+                  	- @CZ No-Fly Zones
+                  	- @SNAFU Weapons
+                  	- @Chims_Snafu_Reload_Fix
+                  	- @BaseBuildingPlus
+                  	- @Arma 2 Helicopters Remastered
+                  	- @ArrakisTraderSigns
+                  	- @Fo
+--------------------------------------------------------------------
+
+04:44:32 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+04:44:32 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<a2406020>
+====================================================================
+                      2024/04/05 04:49:07 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-H71K420
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 40.939
+                  World name    : chernarusplus
+                  Game version  : 1.24.157623
+                  Mods          : 
+                  	- @CF
+                  	- @Dabs Framework
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Animations
+                  	- @DayZ Editor Loader
+                  	- @FoXyRadio
+                  	- @FoXyExpansion
+                  	- @MaccaTestPack
+                  	- @Custom Keycards
+                  	- @DNA Keycards
+                  	- @Community-Online-Tools
+                  	- @Huffys Bio-Hazard Bears
+                  	- @Huffys Cocaine Bear
+                  	- @Huffys Horror Bears
+                  	- @AJs Creatures
+                  	- @Code Lock
+                  	- @RayZrsEdge_MMG Base Storage
+                  	- @SpawnerBubaku
+                  	- @CZ No-Fly Zones
+                  	- @SNAFU Weapons
+                  	- @Chims_Snafu_Reload_Fix
+                  	- @BaseBuildingPlus
+                  	- @Arma 2 Helicopters Remastered
+                  	- @ArrakisTraderSigns
+                  	- @Fo
+--------------------------------------------------------------------
+
+04:49:07 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+04:49:07 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<e8a149e0>
+====================================================================
+                      2024/04/05 05:00:25 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-H71K420
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 58.327
+                  World name    : chernarusplus
+                  Game version  : 1.24.157623
+                  Mods          : 
+                  	- @CF
+                  	- @Dabs Framework
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Animations
+                  	- @DayZ Editor Loader
+                  	- @FoXyRadio
+                  	- @FoXyExpansion
+                  	- @MaccaTestPack
+                  	- @Custom Keycards
+                  	- @DNA Keycards
+                  	- @Community-Online-Tools
+                  	- @Huffys Bio-Hazard Bears
+                  	- @Huffys Cocaine Bear
+                  	- @Huffys Horror Bears
+                  	- @AJs Creatures
+                  	- @Code Lock
+                  	- @RayZrsEdge_MMG Base Storage
+                  	- @SpawnerBubaku
+                  	- @CZ No-Fly Zones
+                  	- @SNAFU Weapons
+                  	- @Chims_Snafu_Reload_Fix
+                  	- @BaseBuildingPlus
+                  	- @Arma 2 Helicopters Remastered
+                  	- @ArrakisTraderSigns
+                  	- @Fo
+--------------------------------------------------------------------
+
+05:00:25 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+05:00:25 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<b6dc5f90>
+====================================================================
+                      2024/04/05 05:07:36 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-H71K420
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 46.35
+                  World name    : chernarusplus
+                  Game version  : 1.24.157623
+                  Mods          : 
+                  	- @CF
+                  	- @Dabs Framework
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Animations
+                  	- @DayZ Editor Loader
+                  	- @FoXyRadio
+                  	- @FoXyExpansion
+                  	- @MaccaTestPack
+                  	- @Custom Keycards
+                  	- @DNA Keycards
+                  	- @Community-Online-Tools
+                  	- @Huffys Bio-Hazard Bears
+                  	- @Huffys Cocaine Bear
+                  	- @Huffys Horror Bears
+                  	- @AJs Creatures
+                  	- @Code Lock
+                  	- @RayZrsEdge_MMG Base Storage
+                  	- @SpawnerBubaku
+                  	- @CZ No-Fly Zones
+                  	- @SNAFU Weapons
+                  	- @Chims_Snafu_Reload_Fix
+                  	- @BaseBuildingPlus
+                  	- @Arma 2 Helicopters Remastered
+                  	- @ArrakisTraderSigns
+                  	- @Fo
+--------------------------------------------------------------------
+
+05:07:36 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+05:07:36 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<4eb34a60>
+====================================================================
+                      2024/04/05 05:13:13 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-H71K420
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 48.29
+                  World name    : chernarusplus
+                  Game version  : 1.24.157623
+                  Mods          : 
+                  	- @CF
+                  	- @Dabs Framework
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Animations
+                  	- @DayZ Editor Loader
+                  	- @FoXyRadio
+                  	- @FoXyExpansion
+                  	- @MaccaTestPack
+                  	- @Custom Keycards
+                  	- @DNA Keycards
+                  	- @Community-Online-Tools
+                  	- @Huffys Bio-Hazard Bears
+                  	- @Huffys Cocaine Bear
+                  	- @Huffys Horror Bears
+                  	- @AJs Creatures
+                  	- @Code Lock
+                  	- @RayZrsEdge_MMG Base Storage
+                  	- @SpawnerBubaku
+                  	- @CZ No-Fly Zones
+                  	- @SNAFU Weapons
+                  	- @Chims_Snafu_Reload_Fix
+                  	- @BaseBuildingPlus
+                  	- @Arma 2 Helicopters Remastered
+                  	- @ArrakisTraderSigns
+                  	- @Fo
+--------------------------------------------------------------------
+
+05:13:13 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+05:13:13 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<f75a4190>
+====================================================================
+                      2024/04/05 06:06:37 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-H71K420
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 48.525
+                  World name    : chernarusplus
+                  Game version  : 1.24.157623
+                  Mods          : 
+                  	- @CF
+                  	- @Dabs Framework
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Animations
+                  	- @DayZ Editor Loader
+                  	- @FoXyRadio
+                  	- @FoXyExpansion
+                  	- @MaccaTestPack
+                  	- @Custom Keycards
+                  	- @DNA Keycards
+                  	- @Community-Online-Tools
+                  	- @Huffys Bio-Hazard Bears
+                  	- @Huffys Cocaine Bear
+                  	- @Huffys Horror Bears
+                  	- @AJs Creatures
+                  	- @Code Lock
+                  	- @RayZrsEdge_MMG Base Storage
+                  	- @SpawnerBubaku
+                  	- @CZ No-Fly Zones
+                  	- @SNAFU Weapons
+                  	- @Chims_Snafu_Reload_Fix
+                  	- @BaseBuildingPlus
+                  	- @Arma 2 Helicopters Remastered
+                  	- @ArrakisTraderSigns
+                  	- @Fo
+--------------------------------------------------------------------
+
+06:06:37 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+06:06:37 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<77982180>
+====================================================================
+                      2024/04/05 06:29:59 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-H71K420
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 47.468
+                  World name    : chernarusplus
+                  Game version  : 1.24.157623
+                  Mods          : 
+                  	- @CF
+                  	- @Dabs Framework
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Animations
+                  	- @DayZ Editor Loader
+                  	- @FoXyRadio
+                  	- @FoXyExpansion
+                  	- @MaccaTestPack
+                  	- @Custom Keycards
+                  	- @DNA Keycards
+                  	- @Community-Online-Tools
+                  	- @Huffys Bio-Hazard Bears
+                  	- @Huffys Cocaine Bear
+                  	- @Huffys Horror Bears
+                  	- @AJs Creatures
+                  	- @Code Lock
+                  	- @RayZrsEdge_MMG Base Storage
+                  	- @SpawnerBubaku
+                  	- @CZ No-Fly Zones
+                  	- @SNAFU Weapons
+                  	- @Chims_Snafu_Reload_Fix
+                  	- @BaseBuildingPlus
+                  	- @Arma 2 Helicopters Remastered
+                  	- @ArrakisTraderSigns
+                  	- @Fo
+--------------------------------------------------------------------
+
+06:29:59 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+06:29:59 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<f3bbc4e0>
+====================================================================
+                      2024/04/05 21:27:30 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-H71K420
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 49.199
+                  World name    : chernarusplus
+                  Game version  : 1.24.157623
+                  Mods          : 
+                  	- @CF
+                  	- @Dabs Framework
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Animations
+                  	- @DayZ Editor Loader
+                  	- @FoXyRadio
+                  	- @FoXyExpansion
+                  	- @MaccaTestPack
+                  	- @Custom Keycards
+                  	- @DNA Keycards
+                  	- @Community-Online-Tools
+                  	- @Huffys Bio-Hazard Bears
+                  	- @Huffys Cocaine Bear
+                  	- @Huffys Horror Bears
+                  	- @AJs Creatures
+                  	- @Code Lock
+                  	- @RayZrsEdge_MMG Base Storage
+                  	- @SpawnerBubaku
+                  	- @CZ No-Fly Zones
+                  	- @SNAFU Weapons
+                  	- @Chims_Snafu_Reload_Fix
+                  	- @BaseBuildingPlus
+                  	- @Arma 2 Helicopters Remastered
+                  	- @ArrakisTraderSigns
+                  	- @Fo
+--------------------------------------------------------------------
+
+21:27:30 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+21:27:30 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<61dd1260>
+====================================================================
+                      2024/04/05 21:32:19 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-H71K420
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 48.239
+                  World name    : chernarusplus
+                  Game version  : 1.24.157623
+                  Mods          : 
+                  	- @CF
+                  	- @Dabs Framework
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Animations
+                  	- @DayZ Editor Loader
+                  	- @FoXyRadio
+                  	- @FoXyExpansion
+                  	- @MaccaTestPack
+                  	- @Custom Keycards
+                  	- @DNA Keycards
+                  	- @Community-Online-Tools
+                  	- @Huffys Bio-Hazard Bears
+                  	- @Huffys Cocaine Bear
+                  	- @Huffys Horror Bears
+                  	- @AJs Creatures
+                  	- @Code Lock
+                  	- @RayZrsEdge_MMG Base Storage
+                  	- @SpawnerBubaku
+                  	- @CZ No-Fly Zones
+                  	- @SNAFU Weapons
+                  	- @Chims_Snafu_Reload_Fix
+                  	- @BaseBuildingPlus
+                  	- @Arma 2 Helicopters Remastered
+                  	- @ArrakisTraderSigns
+                  	- @Fo
+--------------------------------------------------------------------
+
+21:32:19 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+21:32:19 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<f880bd70>
+====================================================================
+                      2024/04/05 22:12:05 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-H71K420
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 49.871
+                  World name    : chernarusplus
+                  Game version  : 1.24.157623
+                  Mods          : 
+                  	- @CF
+                  	- @Dabs Framework
+                  	- @DayZ-Expansion-Bundle
+                  	- @DayZ-Expansion-Licensed
+                  	- @DayZ-Expansion-Animations
+                  	- @DayZ Editor Loader
+                  	- @FoXyRadio
+                  	- @FoXyExpansion
+                  	- @MaccaTestPack
+                  	- @Custom Keycards
+                  	- @DNA Keycards
+                  	- @Community-Online-Tools
+                  	- @Huffys Bio-Hazard Bears
+                  	- @Huffys Cocaine Bear
+                  	- @Huffys Horror Bears
+                  	- @AJs Creatures
+                  	- @Code Lock
+                  	- @RayZrsEdge_MMG Base Storage
+                  	- @SpawnerBubaku
+                  	- @CZ No-Fly Zones
+                  	- @SNAFU Weapons
+                  	- @Chims_Snafu_Reload_Fix
+                  	- @BaseBuildingPlus
+                  	- @Arma 2 Helicopters Remastered
+                  	- @ArrakisTraderSigns
+                  	- @Fo
+--------------------------------------------------------------------
+
+22:12:05 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+22:12:05 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<794fe300>

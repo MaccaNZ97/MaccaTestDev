@@ -1,0 +1,59 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BLACK_MARKET",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansionbanknotehryvnia",
+    "expansiongoldbar"
+  ],
+  "DisplayCurrencyValue": 0,
+  "DisplayCurrencyName": null,
+  "Categories": [
+    "SNAFU_WEAPONS",
+    "SNAFU_MAGS",
+    "SNAFU_SUPPRESSORS",
+    "SNAFU_SCOPES",
+    "TACTICAL FLAVA ACCESSORIES",
+    "SNAFU_STOCKS",
+    "SNAFU_HANDGUARDS",
+    "TACTICALFLAVA_WEAPONS",
+    "TACTICAL FLAVA SUPRESSORS",
+    "TACTICALFLAVA_SCOPES",
+    "TACTICAL FLAVA MAGS"
+  ],
+  "Items": {
+    "snafu_peq1_laser": 3,
+    "snafu_afg_02_od": 3,
+    "snafu_afg_02_black": 3,
+    "snafu_sks_bayonet": 3,
+    "snafu_pistolgripcolta2": 3,
+    "snafu_gigripcolta2": 3,
+    "snafu_tacgripcolta2_bk": 3,
+    "snafu_tacgripcolta2_grey": 3,
+    "snafu_tacgripcolta2_od": 3,
+    "snafu_tacgripcolta2_tan": 3,
+    "snafu_afg_02_tan": 3,
+    "snafuar15_afg": 3,
+    "battery9v": 3,
+    "gcgn_ammo_408chey": 1,
+    "gcgn_ammo_50cal": 1,
+
+    "snafu_ammo_127x55mm": 1,
+    "snafu_ammo_127x55mmap": 1,
+    "snafu_ammo_145cal": 1,
+
+    "snafu_ammo_338": 1,
+
+    "snafu_bipod": 1,
+    "snafu_m249bipod": 1,
+ 
+    "snafu_modbipod": 1,
+    "snafu_npkpbipod": 1,
+    "snafu_pkpbipod": 1
+ 
+  }
+}

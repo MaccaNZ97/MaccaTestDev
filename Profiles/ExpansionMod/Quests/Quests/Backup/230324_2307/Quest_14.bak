@@ -1,0 +1,47 @@
+{
+  "ConfigVersion": 21,
+  "ID": 14,
+  "Type": 1,
+  "Title": "Chernogorsk Police Checkpoint",
+  "Descriptions": [
+    "Cherno Police have been paid off by Umbrella Corporation.",
+    "Goto Police Station and destroy opposing forces",
+    "Kill all Police operatives."
+  ],
+  "ObjectiveText": "Chernogorsk Police Checkpoint",
+  "FollowUpQuest": -1,
+  "Repeatable": 0,
+  "IsDailyQuest": 1,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 1,
+  "ObjectSetFileName": "PoliceChernoQuest",
+  "QuestItems": [],
+  "Rewards": [],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 1,
+  "QuestGiverIDs": [
+    8
+  ],
+  "QuestTurnInIDs": [
+    8
+  ],
+  "IsAchievement": 0,
+  "Objectives": [],
+  "QuestColor": 0,
+  "ReputationReward": 0,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 0,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 0
+}

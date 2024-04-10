@@ -1,0 +1,11 @@
+2024-03-28 18:07:19: == Sync Started by User Command
+2024-03-28 18:07:19: Start only 2 threads, limited by tasks to run
+2024-03-28 18:07:19: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 18:07:19: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 18:07:19: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 18:07:19: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 18:07:19: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/env/bear_territories.xml' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/env/bear_territories.xml' (7,798)
+2024-03-28 18:07:19: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/Huffys/Huffy_Bears_events.xml' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/Huffys/Huffy_Bears_events.xml' (2,470)
+2024-03-28 18:07:19: Save State File D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-03-28 18:07:19: Save State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-03-28 18:07:20: == Sync Complete. Time: 00:00:01, Speed: 0.00/s, OK: 2, Errors: 0

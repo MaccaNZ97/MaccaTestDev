@@ -1,0 +1,74 @@
+{
+  "ConfigVersion": 21,
+  "ID": 902,
+  "Type": 1,
+  "Title": "Cap Golova Angelfish",
+  "Descriptions": [
+    "Avast, Matey!\r\n\r\nThere be tales of an angelic fish off the coast of Prigorodki, at the old lighthouse at Cap Golova.\r\n\r\nAvast, Matey!\r\n\r\nThere be tales of an angelic fish off the coast of Prigorodki, at the old lighthouse at Cap Golova.\r\n\r\nIf ye’ could be bringin’ me that thar Angelfish, I'd be willin’ to pay ye’ ₽600 for her.\r\n\r\nHup! I gotta’ run!\r\n\r\nTight lines!\r\n",
+    "Travel to Cap Golova\r\nCatch 1 Angelfish\r\n",
+    "There be tales of an angelic fish off the coast of Prigorodki, at the old lighthouse at Cap Golova."
+  ],
+  "ObjectiveText": "Catch 1 Angelfish from Cap Golova",
+  "FollowUpQuest": 903,
+  "Repeatable": 0,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 1200,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 1,
+  "QuestGiverIDs": [
+    11
+  ],
+  "QuestTurnInIDs": [
+    11
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 26,
+      "ID": 11,
+      "ObjectiveType": 3
+    },
+    {
+      "ConfigVersion": 26,
+      "ID": 11,
+      "ObjectiveType": 4
+    },
+    {
+      "ConfigVersion": 26,
+      "ID": 6,
+      "ObjectiveType": 5
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 300,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [
+    901
+  ],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 0,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 0
+}

@@ -1,0 +1,13 @@
+2024-04-02 17:37:43: -- Analysis Started by User Command
+2024-04-02 17:37:43: L: Reading State File D:/Github/MaccaTestDev/Profiles/_gsdata_/_file_state_v4._gs
+2024-04-02 17:37:43: R: Reading State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/_gsdata_/_file_state_v4._gs
+2024-04-02 17:37:43: /DNA_Keycards/Loot/Other/Smol_Blue_Config.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2024-04-02 17:37:43: /DNA_Keycards/Loot/Other/Smol_Green_Config.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2024-04-02 17:37:43: /DNA_Keycards/Loot/Other/Smol_Purple_Config.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2024-04-02 17:37:43: /DNA_Keycards/Loot/Other/Smol_Red_Config.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2024-04-02 17:37:43: /DNA_Keycards/Loot/Other/Smol_Yellow_Config.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2024-04-02 17:37:43: /DNA_Keycards/System/LootContainers/KeyCard_LootContainers_System_Config.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2024-04-02 17:37:43: /DNA_Keycards/System/Mobs/KeyCard_Mob_System_Config.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2024-04-02 17:37:43: Changes: 13, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 967
+2024-04-02 17:37:43: Left to Right: Copy File: 13 
+2024-04-02 17:37:43: -- Analysis Complete. Time 00:00:00, Speed: Many files/s

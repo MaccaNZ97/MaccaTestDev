@@ -1,0 +1,188 @@
+{
+  "m_Version": 12,
+  "DisplayName": "CannabisPlus",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "cigarettepack_chernamorka",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 900,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cigarettepack_merkur",
+        "cigarettepack_partyzanka"
+      ]
+    },
+    {
+      "ClassName": "cp_bagger",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbagskunk",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cp_cannabisbagblue",
+        "cp_cannabisbagkush",
+        "cp_cannabisbagstardawg",
+        "cp_cannabisbagfuture",
+        "cp_cannabisbags1",
+        "cp_cannabisbagnomad",
+        "cp_cannabisbagblackfrost"
+      ]
+    },
+    {
+      "ClassName": "cp_cannabisbrickskunk",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cp_cannabisbrickblue",
+        "cp_cannabisbrickkush",
+        "cp_cannabisbrickstardawg",
+        "cp_cannabisbrickfuture",
+        "cp_cannabisbricks1",
+        "cp_cannabisbricknomad",
+        "cp_cannabisbrickblackfrost"
+      ]
+    },
+    {
+      "ClassName": "cp_cannabisseedspackskunk",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cp_cannabisseedspackblue",
+        "cp_cannabisseedspackkush",
+        "cp_cannabisseedspackstardawg",
+        "cp_cannabisseedspackfuture",
+        "cp_cannabisseedspacks1",
+        "cp_cannabisseedspacknomad",
+        "cp_cannabisseedspackblackfrost"
+      ]
+    },
+    {
+      "ClassName": "cp_cigarettepack_cannabisskunk",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "cp_cigarettepack_cannabisblue",
+        "cp_cigarettepack_cannabiskush",
+        "cp_cigarettepack_cannabisstardawg",
+        "cp_cigarettepack_cannabisfuture",
+        "cp_cigarettepack_cannabiss1",
+        "cp_cigarettepack_cannabisnomad",
+        "cp_cigarettepack_cannabisblackfrost"
+      ]
+    },
+    {
+      "ClassName": "cp_drypost_kit",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_emptybag",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_plasticroll",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_plasticwrapper",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_relief_balm",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_rollingpapers",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_workbench_kit",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 55000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

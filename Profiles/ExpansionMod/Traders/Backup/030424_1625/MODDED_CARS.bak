@@ -1,0 +1,27 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Unofficial Car Sales",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansionbanknotehryvnia",
+    "expansiongoldbar"
+  ],
+  "DisplayCurrencyValue": 0,
+  "DisplayCurrencyName": null,
+  "Categories": [
+    "CONTAINERS:3",
+    "VAGNER CAR PARTS:3",
+    "BATTERY:3",
+    "VAGNER_CIVILIAN_CARS",
+    "VAGNER_MILITARY_CARS",
+    "VAGNER_MUSCLE_CARS",
+    "LIQUIDS:3"
+  ],
+  "Items": {
+   
+  }
+}

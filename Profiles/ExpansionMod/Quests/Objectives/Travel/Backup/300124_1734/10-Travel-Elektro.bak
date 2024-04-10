@@ -1,0 +1,18 @@
+{
+  "ObjectiveText": "Travel to  Elektro  / ",
+  "TimeLimit": -1,
+  "Active": 0,
+  "Position": [
+    9757.95,
+    1.54506,
+    1730.42
+  ],
+  "MaxDistance": -1,
+  "MarkerName": "Elektro West",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 26,
+  "ID": 10,
+  "ObjectiveType": 3
+}

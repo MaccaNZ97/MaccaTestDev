@@ -1,0 +1,31 @@
+2024-04-01 18:52:12: -- Analysis Started by Analyze command
+2024-04-01 18:52:12: L: Reading State File D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-04-01 18:52:12: R: Reading State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-04-01 18:52:12: R: State file does not exist: //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-04-01 18:52:12: /cfgeconomycore.xml: Conflict: New files that differ
+2024-04-01 18:52:12: /cfgenvironment.xml: Conflict: New files that differ
+2024-04-01 18:52:12: /cfgrandompresets.xml: Conflict: New files that differ
+2024-04-01 18:52:12: /cfgweather.xml: Conflict: New files that differ
+2024-04-01 18:52:12: /env/bear_territories.xml: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/p2pmarket/P2PTrader_1.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/personalstorage/PersonalStorage_1.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/settings/AIPatrolSettings.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/settings/BaseBuildingSettings.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/settings/HardlineSettings.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/settings/MapSettings.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/settings/MarketSettings.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/settings/P2PMarketSettings.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/settings/PersonalStorageSettings.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/settings/SafeZoneSettings.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/settings/SpawnSettings.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/traderzones/BALOTAAIRCRAFTS.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/traderzones/GREENMOUNTAIN.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/traderzones/KAMENKA.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/traderzones/KAMENKABOATS.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/traderzones/KRASNOSTAV.json: Conflict: New files that differ
+2024-04-01 18:52:12: /expansion/traderzones/SVETLOYARSK.json: Conflict: New files that differ
+2024-04-01 18:52:12: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2024-04-01 18:52:12: Changes: 495, Conflicts: 22, CopyTime: 0, FixState: 48, Errors: 0, All: 545
+2024-04-01 18:52:12: Left to Right: Copy File: 471 
+2024-04-01 18:52:12: Right to Left: Copy File: 2 
+2024-04-01 18:52:12: -- Analysis Complete. Time 00:00:00, Speed: Many files/s

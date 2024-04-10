@@ -1,0 +1,6 @@
+2024-04-11 10:04:54: -- Analysis Started by Analyze command
+2024-04-11 10:04:54: L: Reading State File D:/Github/MaccaTestDev/Profiles/_gsdata_/_file_state_v4._gs
+2024-04-11 10:04:54: R: Reading State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/_gsdata_/_file_state_v4._gs
+2024-04-11 10:04:54: Changes: 19, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 1559
+2024-04-11 10:04:54: Right to Left: Copy File: 18 Delete File: 1 
+2024-04-11 10:04:54: -- Analysis Complete. Time 00:00:00, Speed: Many files/s

@@ -1,0 +1,7 @@
+2024-04-11 10:04:53: -- Analysis Started by Analyze command
+2024-04-11 10:04:53: L: Reading State File D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-04-11 10:04:53: R: Reading State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-04-11 10:04:53: Changes: 15, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 582
+2024-04-11 10:04:53: Left to Right: Copy File: 8 
+2024-04-11 10:04:53: Right to Left: Copy File: 3 Delete File: 4 
+2024-04-11 10:04:53: -- Analysis Complete. Time 00:00:00, Speed: Many files/s

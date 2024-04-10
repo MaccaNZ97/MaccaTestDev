@@ -1,0 +1,19 @@
+{
+    "m_Version": 12,
+    "DisplayName": "HUNTING_SUPPLIES",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Questionmark",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "ANIMAL PELTS:2",
+        "FISHING"
+    ],
+    "Items": {}
+}

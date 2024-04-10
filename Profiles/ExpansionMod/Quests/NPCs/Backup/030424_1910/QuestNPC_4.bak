@@ -1,0 +1,28 @@
+{
+  "ConfigVersion": 6,
+  "ID": 4,
+  "ClassName": "ExpansionQuestNPCIndar",
+  "Position": [
+    13528.4,
+    63.7588,
+    3355.35
+  ],
+  "Orientation": [
+    -49.2271,
+    0,
+    0
+  ],
+  "NPCName": "Harry the Dealer",
+  "DefaultNPCText": "Right now I have nothing for you but will do soon!",
+  "Waypoints": [],
+  "NPCEmoteID": 14,
+  "NPCEmoteIsStatic": 0,
+  "NPCLoadoutFile": "CartelLoadout",
+  "NPCInteractionEmoteID": 9,
+  "NPCQuestCancelEmoteID": 10,
+  "NPCQuestStartEmoteID": 58,
+  "NPCQuestCompleteEmoteID": 32,
+  "NPCFaction": "InvincibleObservers",
+  "NPCType": 2,
+  "Active": 1
+}

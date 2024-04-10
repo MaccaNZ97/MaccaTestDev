@@ -1,0 +1,437 @@
+2024-04-01 22:24:32: == Sync Started by User Command
+2024-04-01 22:24:32: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-01 22:24:32: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-01 22:24:32: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-01 22:24:32: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-01 22:24:32: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-01 22:24:32: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-01 22:24:32: Create Folder //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/BlackoutsCustomCannabis
+2024-04-01 22:24:32: Create Folder //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CannabisPlus
+2024-04-01 22:24:32: Create Folder //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools
+2024-04-01 22:24:32: Create Folder D:/Github/MaccaTestDev/Profiles/CustomKeycards
+2024-04-01 22:24:32: Create Folder //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Items
+2024-04-01 22:24:32: Copy New '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CustomKeycards/config.json' -> 'D:/Github/MaccaTestDev/Profiles/CustomKeycards/config.json' (16,482)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CannabisPlus/CannabisPlus.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CannabisPlus/CannabisPlus.json' (1,877)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/BlackoutsCustomCannabis/Blackouts.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/BlackoutsCustomCannabis/Blackouts.json' (1,226)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Items/BBP.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Items/BBP.json' (670)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Items/Gate Metal.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Items/Gate Metal.json' (1,374)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Items/Fence Wood.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Items/Fence Wood.json' (1,141)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Items/Fence Metal.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Items/Fence Metal.json' (1,260)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Items/Medical Set.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Items/Medical Set.json' (1,595)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Items/Gate Wood.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Items/Gate Wood.json' (1,255)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Items/NBC Set.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Items/NBC Set.json' (1,057)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Items/Raider Set.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Items/Raider Set.json' (1,057)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Items/Platform.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Items/Platform.json' (554)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Items/Watchtower Metal.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Items/Watchtower Metal.json' (1,503)
+2024-04-01 22:24:32: Create Folder //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Logs
+2024-04-01 22:24:32: Create Folder //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Items/Watchtower Wood.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Items/Watchtower Wood.json' (1,383)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Teleports_chernarusplus.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Teleports_chernarusplus.json' (46,850)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/CivilianSedan.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/CivilianSedan.json' (503)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Webhooks.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Webhooks.json' (6,956)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/CivilianSedan_Black.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/CivilianSedan_Black.json' (545)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/CivilianSedan_Wine.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/CivilianSedan_Wine.json' (538)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/ExpansionBus.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/ExpansionBus.json' (322)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/ExpansionGyrocopter.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/ExpansionGyrocopter.json' (170)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/ExpansionLHD.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/ExpansionLHD.json' (194)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/ExpansionMh6.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/ExpansionMh6.json' (345)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/ExpansionTractor.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/ExpansionTractor.json' (404)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/ExpansionMerlin.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/ExpansionMerlin.json' (358)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/ExpansionUAZCargo.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/ExpansionUAZCargo.json' (452)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/ExpansionUAZCargoRoofless.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/ExpansionUAZCargoRoofless.json' (460)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/ExpansionUAZ.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/ExpansionUAZ.json' (447)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/ExpansionUAZRoofless.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/ExpansionUAZRoofless.json' (455)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/ExpansionUtilityBoat.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/ExpansionUtilityBoat.json' (202)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/ExpansionUh1h.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/ExpansionUh1h.json' (276)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/ExpansionVodnik.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/ExpansionVodnik.json' (402)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/ExpansionZodiacBoat.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/ExpansionZodiacBoat.json' (155)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/GunnerTruck.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/GunnerTruck.json' (481)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/GunnerTruck_Auto.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/GunnerTruck_Auto.json' (486)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/GunnerTruckTan.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/GunnerTruckTan.json' (502)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/GunnerTruckTan_Auto.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/GunnerTruckTan_Auto.json' (507)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/GunnerTruckWhite.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/GunnerTruckWhite.json' (516)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/Hatchback_02.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/Hatchback_02.json' (534)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/GunnerTruckWhite_Auto.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/GunnerTruckWhite_Auto.json' (521)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/Hatchback_02_Blue.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/Hatchback_02_Blue.json' (569)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/Hatchback_02_Black.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/Hatchback_02_Black.json' (576)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/Offroad_02.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/Offroad_02.json' (458)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/OffroadHatchback.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/OffroadHatchback.json' (446)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/OffroadHatchback_Blue.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/OffroadHatchback_Blue.json' (471)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/OffroadHatchback_White.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/OffroadHatchback_White.json' (476)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/Sedan_02.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/Sedan_02.json' (486)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/Sedan_02_Red.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/Sedan_02_Red.json' (514)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/Sedan_02_Grey.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/Sedan_02_Grey.json' (521)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/Truck_01_Covered.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/Truck_01_Covered.json' (470)
+2024-04-01 22:24:32: Create Folder //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/ConfigBackups
+2024-04-01 22:24:32: /DNA_Keycards/Loot/Clothing/KeyCard_Clothing_Config.json: unresolved conflict results in No Copy
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/Truck_01_Covered_Orange.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/Truck_01_Covered_Orange.json' (498)
+2024-04-01 22:24:32: /DNA_Keycards/Loot/General/KeyCard_General_Config.json: unresolved conflict results in No Copy
+2024-04-01 22:24:32: /DNA_Keycards/Loot/Other/@Config_Description_and_Activation.json: unresolved conflict results in No Copy
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/CommunityOnlineTools/Vehicles/Truck_01_Covered_Blue.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CommunityOnlineTools/Vehicles/Truck_01_Covered_Blue.json' (490)
+2024-04-01 22:24:32: Copy New 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/ConfigBackups/system_main.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/ConfigBackups/system_main.json' (22,006)
+2024-04-01 22:24:32: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/Loot/Other/Smol_Blue_Config.json' -> 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/Loot/Other/Smol_Blue_Config.json' (2,603)
+2024-04-01 22:24:32: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/Loot/Other/Smol_Green_Config.json' -> 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/Loot/Other/Smol_Green_Config.json' (2,490)
+2024-04-01 22:24:32: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/Loot/Other/Smol_Red_Config.json' -> 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/Loot/Other/Smol_Red_Config.json' (2,511)
+2024-04-01 22:24:32: /DNA_Keycards/Loot/Weapons/KeyCard_Weapons_Config.json: unresolved conflict results in No Copy
+2024-04-01 22:24:32: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/Loot/Other/Smol_Purple_Config.json' -> 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/Loot/Other/Smol_Purple_Config.json' (2,592)
+2024-04-01 22:24:32: /DNA_Keycards/System/Main/KeyCard_Main_System_Config.json: unresolved conflict results in No Copy
+2024-04-01 22:24:33: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/Loot/Other/Smol_Yellow_Config.json' -> 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/Loot/Other/Smol_Yellow_Config.json' (2,479)
+2024-04-01 22:24:33: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/System/LootContainers/KeyCard_LootContainers_System_Config.json' -> 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/System/LootContainers/KeyCard_LootContainers_System_Config.json' (48,348)
+2024-04-01 22:24:33: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/System/Mobs/KeyCard_Mob_System_Config.json' -> 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/System/Mobs/KeyCard_Mob_System_Config.json' (7,260)
+2024-04-01 22:24:33: /DNA_Keycards/System/Other/ResetTimer_Config.json: unresolved conflict results in No Copy
+2024-04-01 22:24:33: Create Folder D:/Github/MaccaTestDev/Profiles/DNA_Logging
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/System/Other/SmolCrates_Config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/System/Other/SmolCrates_Config.json' (1,356)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/System/Other/DoorAlarmAndNotifications_Config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/System/Other/DoorAlarmAndNotifications_Config.json' (1,009)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/1.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/1.bin' (193)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/100.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/100.bin' (302)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/102.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/102.bin' (208)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/103.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/103.bin' (200)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/107.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/107.bin' (203)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/104.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/104.bin' (371)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/11.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/11.bin' (304)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/114.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/114.bin' (770)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/112.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/112.bin' (285)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/111.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/111.bin' (350)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/115.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/115.bin' (646)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/117.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/117.bin' (628)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/116.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/116.bin' (303)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/118.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/118.bin' (212)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/120.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/120.bin' (209)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/119.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/119.bin' (404)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/121.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/121.bin' (207)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/123.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/123.bin' (205)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/122.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/122.bin' (206)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/124.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/124.bin' (369)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/125.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/125.bin' (196)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/126.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/126.bin' (387)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/127.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/127.bin' (199)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/128.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/128.bin' (202)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/129.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/129.bin' (209)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/130.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/130.bin' (290)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/131.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/131.bin' (212)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/13.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/13.bin' (285)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/133.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/133.bin' (213)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/132.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/132.bin' (236)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/134.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/134.bin' (215)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/14.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/14.bin' (944)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/138.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/138.bin' (213)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/139.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/139.bin' (859)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/143.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/143.bin' (204)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/144.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/144.bin' (374)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/141.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/141.bin' (735)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/145.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/145.bin' (301)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/149.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/149.bin' (191)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/146.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/146.bin' (360)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/151.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/151.bin' (308)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/150.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/150.bin' (196)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/152.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/152.bin' (506)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/154.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/154.bin' (302)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/153.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/153.bin' (304)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/155.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/155.bin' (307)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/158.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/158.bin' (270)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/156.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/156.bin' (745)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/159.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/159.bin' (264)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/163.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/163.bin' (213)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/162.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/162.bin' (748)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/16.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/16.bin' (199)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/169.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/169.bin' (199)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/164.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/164.bin' (288)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/165.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/165.bin' (202)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/171.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/171.bin' (221)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/170.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/170.bin' (489)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/173.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/173.bin' (964)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/175.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/175.bin' (377)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/179.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/179.bin' (439)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/178.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/178.bin' (281)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/18.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/18.bin' (192)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/180.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/180.bin' (215)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/182.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/182.bin' (321)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/183.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/183.bin' (209)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/185.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/185.bin' (211)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/187.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/187.bin' (387)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/188.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/188.bin' (414)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/189.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/189.bin' (311)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/19.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/19.bin' (189)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/2.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/2.bin' (436)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/24.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/24.bin' (319)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/26.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/26.bin' (291)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/25.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/25.bin' (198)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/27.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/27.bin' (588)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/28.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/28.bin' (300)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/29.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/29.bin' (206)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/30.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/30.bin' (192)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/32.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/32.bin' (206)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/31.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/31.bin' (191)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/33.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/33.bin' (225)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/45.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/45.bin' (197)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/40.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/40.bin' (669)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/37.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/37.bin' (396)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/48.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/48.bin' (287)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/46.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/46.bin' (211)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/49.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/49.bin' (201)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/53.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/53.bin' (193)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/52.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/52.bin' (285)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/51.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/51.bin' (185)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/59.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/59.bin' (1,660)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/57.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/57.bin' (423)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/54.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/54.bin' (199)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/61.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/61.bin' (214)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/60.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/60.bin' (387)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/6.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/6.bin' (376)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/64.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/64.bin' (358)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/62.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/62.bin' (362)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/63.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/63.bin' (185)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/66.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/66.bin' (199)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/67.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/67.bin' (191)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/68.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/68.bin' (423)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/72.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/72.bin' (371)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/73.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/73.bin' (201)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/75.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/75.bin' (208)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/78.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/78.bin' (193)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/79.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/79.bin' (539)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/77.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/77.bin' (374)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/8.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/8.bin' (296)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/81.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/81.bin' (256)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/80.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/80.bin' (202)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/82.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/82.bin' (804)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/84.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/84.bin' (191)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/83.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/83.bin' (815)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/88.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/88.bin' (194)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/9.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/9.bin' (405)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/87.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/87.bin' (202)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/90.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/90.bin' (386)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/92.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/92.bin' (206)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/91.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/91.bin' (1,198)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/93.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/93.bin' (459)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/94.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/94.bin' (189)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/96.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/96.bin' (453)
+2024-04-01 22:24:33: Create Folder //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Hardline
+2024-04-01 22:24:33: /ExpansionMod/Loadouts/BanditLoadout.json: unresolved conflict results in No Copy
+2024-04-01 22:24:33: /ExpansionMod/Loadouts/EastLoadout.json: unresolved conflict results in No Copy
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/97.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/97.bin' (247)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Groups/98.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Groups/98.bin' (409)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/eyewear_example.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/eyewear_example.json' (13,902)
+2024-04-01 22:24:33: /ExpansionMod/Loadouts/GorkaLoadout.json: unresolved conflict results in No Copy
+2024-04-01 22:24:33: /ExpansionMod/Loadouts/HumanLoadout.json: unresolved conflict results in No Copy
+2024-04-01 22:24:33: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/FireFighterLoadout.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/FireFighterLoadout.json' (13,004)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/NBCFullLoadout.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/NBCFullLoadout.json' (92,365)
+2024-04-01 22:24:33: /ExpansionMod/Loadouts/NBCLoadout.json: unresolved conflict results in No Copy
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/FisherNPC.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/FisherNPC.json' (4,012)
+2024-04-01 22:24:33: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/PlayerFemaleSuitLoadout.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/PlayerFemaleSuitLoadout.json' (13,866)
+2024-04-01 22:24:33: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/PlayerMaleSuitLoadout.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/PlayerMaleSuitLoadout.json' (13,852)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/PilotNPCExtraction.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/PilotNPCExtraction.json' (48,918)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/MMGTanLoadout.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/MMGTanLoadout.json' (63,092)
+2024-04-01 22:24:33: /ExpansionMod/Loadouts/PoliceLoadout.json: unresolved conflict results in No Copy
+2024-04-01 22:24:33: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/PlayerSurvivorLoadout.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/PlayerSurvivorLoadout.json' (15,733)
+2024-04-01 22:24:33: /ExpansionMod/Loadouts/SurvivorLoadout.json: unresolved conflict results in No Copy
+2024-04-01 22:24:33: /ExpansionMod/Loadouts/TTSKOLoadout.json: unresolved conflict results in No Copy
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/SnafuUmbrella.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/SnafuUmbrella.json' (114,139)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/snafusniperumbrella.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/snafusniperumbrella.json' (108,393)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/Umbrella_Santa.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/Umbrella_Santa.json' (82,158)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/UmbrellaCorpSMG.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/UmbrellaCorpSMG.json' (7,366)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/UmbrellaCorpfal.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/UmbrellaCorpfal.json' (11,439)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/UmbrellaCorp.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/UmbrellaCorp.json' (45,594)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/UmbrellaCorptisy.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/UmbrellaCorptisy.json' (46,871)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/UmbrellaLoadout.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/UmbrellaLoadout.json' (15,606)
+2024-04-01 22:24:33: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/UmbrellaLoadoutspecops.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/UmbrellaLoadoutspecops.json' (15,529)
+2024-04-01 22:24:33: /ExpansionMod/Loadouts/WestLoadout.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/YeetBrigadeLoadout.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/YeetBrigadeLoadout.json' (9,028)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/YellowKingLoadout.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/YellowKingLoadout.json' (7,076)
+2024-04-01 22:24:34: /ExpansionMod/Market/AMMO.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Ammo_Boxes.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/ARMBANDS.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Assault_Rifles.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Backpacks.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Bandanas.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Batteries.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Bayonets.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Belts.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Blouses_And_Suits.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Boats.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Boots_And_Shoes.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Buttstocks.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/UmbrellaSniper.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/UmbrellaSniper.json' (7,996)
+2024-04-01 22:24:34: /ExpansionMod/Market/Caps.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Cars.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Coats_And_Jackets.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Containers.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Crossbows.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Drinks.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Electronics.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Event.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Exchange.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Explosives_And_Grenades.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Eyewear.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Fish.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Fishing.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Flags.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Food.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Fruit_And_Vegetables.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Furnishings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Gardening.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Ghillies.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Gloves.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Handguards.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Hats_And_Hoods.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Helicopters.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Helmets.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Holsters_And_Pouches.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Kits.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Knifes.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Launchers.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Lights.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Liquids.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Locks.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Magazines.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Masks.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Meat.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Medical.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Melee_Weapons.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Muzzles.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Navigation.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Optics.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Pants_And_Shorts.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Pistols.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Rifles.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Shirts_And_TShirts.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Shotguns.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Skirts_And_Dresses.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Sniper_Rifles.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Spraycans.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Submachine_Guns.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Supplies.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Sweaters_And_Hoodies.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Tents.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Tools.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Vehicle_Parts.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Market/Vests.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Market/CannabisPlus.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Market/CannabisPlus.json' (5,890)
+2024-04-01 22:24:34: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Loadouts/West_NBCLoadout.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Loadouts/West_NBCLoadout.json' (146,316)
+2024-04-01 22:24:34: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/GroupData/152.bin' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/GroupData/152.bin' (8)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/NPCs/QuestNPC_2.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/NPCs/QuestNPC_2.json' (766)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/NPCs/QuestNPC_1.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/NPCs/QuestNPC_1.json' (734)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/NPCs/QuestNPC_3.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/NPCs/QuestNPC_3.json' (656)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/AICamp/Objective_AIC_1.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/AICamp/Objective_AIC_1.json' (22,375)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Action/Objective_A_1.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Action/Objective_A_1.json' (301)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Action/Objective_A_2.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Action/Objective_A_2.json' (314)
+2024-04-01 22:24:34: /ExpansionMod/Quests/Objectives/AIVIP/Objective_AIESCORT_1.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/AIPatrol/Objective_AIP_1.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/AIPatrol/Objective_AIP_1.json' (2,773)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Collection/Objective_C_2.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Collection/Objective_C_2.json' (413)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Collection/Objective_C_1.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Collection/Objective_C_1.json' (410)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Collection/Objective_C_3.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Collection/Objective_C_3.json' (445)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Crafting/Objective_CR_1.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Crafting/Objective_CR_1.json' (242)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Delivery/Objective_D_1.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Delivery/Objective_D_1.json' (469)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Delivery/Objective_D_2.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Delivery/Objective_D_2.json' (474)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Target/Objective_TA_1.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Target/Objective_TA_1.json' (526)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Target/Objective_TA_2.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Target/Objective_TA_2.json' (467)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Target/Objective_TA_3.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Target/Objective_TA_3.json' (465)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Target/Objective_TA_4.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Target/Objective_TA_4.json' (477)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Travel/Objective_T_1.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Travel/Objective_T_1.json' (384)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Travel/Objective_T_2.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Travel/Objective_T_2.json' (386)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Travel/Objective_T_3.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Travel/Objective_T_3.json' (377)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Travel/Objective_T_4.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Travel/Objective_T_4.json' (379)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Travel/Objective_T_5.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Travel/Objective_T_5.json' (379)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Travel/Objective_T_6.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Travel/Objective_T_6.json' (380)
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/Travel/Objective_T_7.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/Travel/Objective_T_7.json' (377)
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_1.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_10.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_11.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_12.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_13.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_14.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_15.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_16.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_17.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_18.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_19.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_2.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_20.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_21.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_22.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_23.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/Objectives/TreasureHunt/Objective_TH_1.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/Objectives/TreasureHunt/Objective_TH_1.json' (2,088)
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_24.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_3.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_4.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_5.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_6.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_7.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_8.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Quests/Quests/Quest_9.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/AirdropSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/AISettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/ChatSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/DamageSystemSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/BookSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/DebugSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/GarageSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/GeneralSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/LogsSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/MissionSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/MonitoringSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/NameTagsSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/PersistentServerData.json: Source file has changed between Analyze and Sync from '[file] size=56 accu-time=2024-04-01 17:04:27 attr=Archive,WArchive cktype=0' to 'size=56 time=2024-04-01 20:05:05', noted in source file state
+2024-04-01 22:24:34: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/PersistentServerData.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/PersistentServerData.json' (56)
+2024-04-01 22:24:34: /ExpansionMod/Settings/NotificationSchedulerSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/NotificationSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/PartySettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/PersonalStorageNewSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/PlayerListSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/QuestSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/RaidSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/SocialMediaSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/TerritorySettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Settings/VehicleSettings.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Aircraft.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Attachments.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Boats.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/BuildingSupplies.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Clothing.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Clothing_Accessories.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Components.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Consumables.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Event.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Exchange.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Fishing.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Medicals.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Special.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Spraycans.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Vehicle_Parts.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Vehicles.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: /ExpansionMod/Traders/Weapons.json: unresolved conflict results in No Copy
+2024-04-01 22:24:34: Create Folder D:/Github/MaccaTestDev/Profiles/FoXyMods
+2024-04-01 22:24:34: Create Folder D:/Github/MaccaTestDev/Profiles/MPG_Spawner
+2024-04-01 22:24:34: Copy New '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/FoXyMods/FoXyRadio.json' -> 'D:/Github/MaccaTestDev/Profiles/FoXyMods/FoXyRadio.json' (2,404)
+2024-04-01 22:24:34: Copy New '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/MPG_Spawner/Config.json' -> 'D:/Github/MaccaTestDev/Profiles/MPG_Spawner/Config.json' (156)
+2024-04-01 22:24:34: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Settings/MarketSettings.json ReadMe.txt' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Settings/MarketSettings.json ReadMe.txt' (183)
+2024-04-01 22:24:34: Create Folder D:/Github/MaccaTestDev/Profiles/MPG_Spawner/Logs
+2024-04-01 22:24:34: Create Folder D:/Github/MaccaTestDev/Profiles/MPG_Spawner/Points
+2024-04-01 22:24:34: Copy New 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Settings/NotificationSchedulerSettings copy.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Settings/NotificationSchedulerSettings copy.json' (1,854)
+2024-04-01 22:24:34: Create Folder D:/Github/MaccaTestDev/Profiles/MPG_Spawner/Logs/LogArchives
+2024-04-01 22:24:34: Close Modified Folder (mod-time, acl): /CustomKeycards
+2024-04-01 22:24:34: Close Modified Folder (mod-time, acl): /CannabisPlus
+2024-04-01 22:24:34: Create Folder //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/sUDE
+2024-04-01 22:24:34: Copy New '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/MPG_Spawner/Points/Point_Example1.json' -> 'D:/Github/MaccaTestDev/Profiles/MPG_Spawner/Points/Point_Example1.json' (3,621)
+2024-04-01 22:24:34: Close Modified Folder (mod-time, acl): /BlackoutsCustomCannabis
+2024-04-01 22:24:34: Copy New '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/MPG_Spawner/Points/Point_Example2.json' -> 'D:/Github/MaccaTestDev/Profiles/MPG_Spawner/Points/Point_Example2.json' (4,763)
+2024-04-01 22:24:34: Create Folder //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/sUDE/logs
+2024-04-01 22:24:34: Create Folder //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/sUDE/config
+2024-04-01 22:24:34: Copy New 'D:/Github/MaccaTestDev/Profiles/sUDE/logs/2024-03-25.slog' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/sUDE/logs/2024-03-25.slog' (7,942)
+2024-04-01 22:24:34: Copy New 'D:/Github/MaccaTestDev/Profiles/sUDE/logs/2024-03-24.slog' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/sUDE/logs/2024-03-24.slog' (1,963)
+2024-04-01 22:24:34: Close Modified Folder (mod-time, acl): /CommunityOnlineTools/Items
+2024-04-01 22:24:34: Copy New 'D:/Github/MaccaTestDev/Profiles/sUDE/config/sVisual_constraints.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/sUDE/config/sVisual_constraints.json' (1,340)
+2024-04-01 22:24:34: Close Modified Folder (mod-time, acl): /CommunityOnlineTools/Vehicles
+2024-04-01 22:24:34: Close Modified Folder (mod-time, acl): /DNA_Keycards/ConfigBackups
+2024-04-01 22:24:34: Close Modified Folder (mod-time, acl): /FoXyMods
+2024-04-01 22:24:34: Close Modified Folder (mod-time, acl): /MPG_Spawner/Logs
+2024-04-01 22:24:34: Close Modified Folder (mod-time, acl): /MPG_Spawner/Points
+2024-04-01 22:24:34: Close Modified Folder (mod-time, acl): /sUDE/config
+2024-04-01 22:24:34: Close Modified Folder (mod-time, acl): /CommunityOnlineTools
+2024-04-01 22:24:34: Close Modified Folder (mod-time, acl): /MPG_Spawner
+2024-04-01 22:24:34: Copy New 'D:/Github/MaccaTestDev/Profiles/sUDE/logs/2024-03-27.slog' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/sUDE/logs/2024-03-27.slog' (6,464)
+2024-04-01 22:24:34: Copy New 'D:/Github/MaccaTestDev/Profiles/sUDE/logs/2024-03-28.slog' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/sUDE/logs/2024-03-28.slog' (18,028)
+2024-04-01 22:24:34: Close Modified Folder (mod-time, acl): /sUDE/logs
+2024-04-01 22:24:34: Close Modified Folder (mod-time, acl): /sUDE
+2024-04-01 22:24:34: Save State File D:/Github/MaccaTestDev/Profiles/_gsdata_/_file_state_v4._gs
+2024-04-01 22:24:34: Save State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/_gsdata_/_file_state_v4._gs
+2024-04-01 22:24:34: == Sync Complete. Time: 00:00:02, Speed: 0.00/s, OK: 617, Errors: 0, Conflicts: 146

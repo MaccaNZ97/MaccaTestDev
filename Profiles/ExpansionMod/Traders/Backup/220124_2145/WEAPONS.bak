@@ -1,0 +1,46 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "OPTICS:3",
+        "BAYONETS:3",
+        "BUTTSTOCKS:3",
+        "HANDGUARDS:3",
+        "GUN MUZZLES:3",
+        "ASSAULT_RIFLES",
+        "SUBMACHINE_GUNS",
+        "AMMO_BOXES",
+        "MELEE_WEAPONS",
+        "KNIFES",
+        "PISTOLS",
+        "CROSSBOWS",
+        "RIFLES",
+        "SNIPER_RIFLES",
+        "SHOTGUNS",
+        "SNAFU_AMMO",
+        "MAGAZINES:3",
+        "TACTICAL FLAVA ACCESSORIES:2",
+        "TACTICAL FLAVA MAGS:2",
+        "TACTICALFLAVA_SCOPES:2",
+        "TACTICAL FLAVA SUPRESSORS:2",
+        "TACTICALFLAVA_WEAPONS:2"
+    ],
+    "Items": {
+        "flaregun": 1,
+        "universallight": 3,
+        "battery9v": 3,
+        "tlrlight": 3,
+        "expansion_awm": 2,
+        "m14": 2
+    }
+}

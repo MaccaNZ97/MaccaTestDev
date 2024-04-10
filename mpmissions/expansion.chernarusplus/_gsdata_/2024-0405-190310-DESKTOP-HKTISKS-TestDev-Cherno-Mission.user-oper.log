@@ -1,0 +1,44 @@
+2024-04-05 19:03:18: == Sync Started by User Command
+2024-04-05 19:03:18: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-05 19:03:18: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-05 19:03:18: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-05 19:03:18: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-05 19:03:18: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-05 19:03:18: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types_Noms.txt' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types_Noms.txt' (196)
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/EditorFiles/Altar_Extraction.dze' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/EditorFiles/Altar_Extraction.dze' (1,586)
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/db/types_Noms.txt' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/db/types_Noms.txt' (3,924)
+2024-04-05 19:03:18: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/AircraftsBalota.map
+2024-04-05 19:03:18: /expansion/traderzones/BALOTAAIRCRAFTS.json: unresolved conflict results in No Copy
+2024-04-05 19:03:18: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/BLACK_MARKET.json' -> 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/BLACK_MARKET.json' (24,696)
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/ALTAR_EXTRACTION.map' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/ALTAR_EXTRACTION.map' (387)
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/ALTAR_EXTRACTION.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/ALTAR_EXTRACTION.json' (42,526)
+2024-04-05 19:03:18: Copy Mod Time of D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/GORKA_TRADER.json to //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/GORKA_TRADER.json
+2024-04-05 19:03:18: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/KAMENKABOATS.json
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/GMT_FOB.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/GMT_FOB.json' (42,658)
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/CARRIER_TRADER.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/CARRIER_TRADER.json' (143,094)
+2024-04-05 19:03:18: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/SVETLOYARSK.json
+2024-04-05 19:03:18: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/BoatsFishingSvetloyarsk.map
+2024-04-05 19:03:18: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/BoatsKamenka_Traders.map
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/SPECIAL_OPS_TRADER.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/SPECIAL_OPS_TRADER.json' (156,585)
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/BLACK_MARKET.map' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/BLACK_MARKET.map' (750)
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/GMT_FOB.map' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/GMT_FOB.map' (387)
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/CARRIER_TRADER.map' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/CARRIER_TRADER.map' (2,695)
+2024-04-05 19:03:18: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/Kamenka_Traders.map
+2024-04-05 19:03:18: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/GreenMountain_Traders.map
+2024-04-05 19:03:18: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/KrasnostavAirstrip_Traders.map
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/GORKA_TRADER.map' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/GORKA_TRADER.map' (794)
+2024-04-05 19:03:18: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/objects/Balota_AircraftTrader.map
+2024-04-05 19:03:18: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/objects/carrier.map
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/SPECIAL_OPS_TRADER.map' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/SPECIAL_OPS_TRADER.map' (1,434)
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/objects/altar.map' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/objects/altar.map' (74)
+2024-04-05 19:03:18: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/objects/Kamenka_Trader.map
+2024-04-05 19:03:18: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/objects/Kamenka_BoatTrader.map
+2024-04-05 19:03:18: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/objects/Krasnostav_Trader.map
+2024-04-05 19:03:18: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/objects/Svetlojarsk_BoatTrader.map
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/objects/Carrier_Trader.map' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/objects/Carrier_Trader.map' (153)
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/EditorFiles/GMT_Extraction.dze' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/EditorFiles/GMT_Extraction.dze' (2,361)
+2024-04-05 19:03:18: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/EditorFiles/SkalistyBridge.dze' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/EditorFiles/SkalistyBridge.dze' (200,723)
+2024-04-05 19:03:18: Save State File D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-04-05 19:03:18: Save State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-04-05 19:03:18: == Sync Complete. Time: 00:00:00, Speed: 0.00/s, OK: 33, Errors: 0, Conflicts: 1

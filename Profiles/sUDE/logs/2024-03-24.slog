@@ -1,0 +1,38 @@
+====================================================================
+                      2024/03/24 03:33:24 
+--------------------------------------------------------------------
+
+                  Profile name  : 
+                  Machine name  : DESKTOP-H71K420
+                  Player name   : Survivor
+                  Average FPS   : 0.07
+                  Tick time     : 32.41
+                  World name    : chernarusplus
+                  Game version  : 1.24.157623
+                  Mods          : 
+                  	- @CF
+                  	- @Dabs Framework
+                  	- @DayZ-Expansion-Bundle-Experimental
+                  	- @DayZ-Expansion-Licensed-Experimental
+                  	- @DayZ-Expansion-Animations-Experimental
+                  	- @Community-Online-Tools
+                  	- @MaccaTestPack
+                  	- @BetterTrac
+                  	- @RA Base Building
+                  	- @RA Basebuilding Compatibility
+                  	- @BearBuff
+                  	- @MaccaServerPackMKIII
+                  	- @DBN_FordRaptor_Scorpio
+                  	- @Huffy's Cocaine Bear
+                  	- @CannabisPlus
+                  	- @More Drugs With Effects
+                  	- @sVisual_experimental
+                  	- @sFramework_experimental
+--------------------------------------------------------------------
+
+03:33:24 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Visual
+03:33:24 [ee] ::SFileHelper::cat : The file [ $profile:\sUDE\config\sVisual_constraints.json ] doesn't exists
+03:33:24 [ww] ::SUserConfigConstraints : Couldn't load neither user config constraint [ $profile:\sUDE\config\sVisual_constraints.json ]
+03:33:24 [ii] │	├ ::SUserConfigConstraints : Creating SUserConfigConstraints_Visual config constraint file : $profile:\sUDE\config\sVisual_constraints.json
+03:33:24 [ii] │	│	├ Done
+03:33:24 [ii] │	├ Done -> SUserConfigConstraints_Visual<766c5760>

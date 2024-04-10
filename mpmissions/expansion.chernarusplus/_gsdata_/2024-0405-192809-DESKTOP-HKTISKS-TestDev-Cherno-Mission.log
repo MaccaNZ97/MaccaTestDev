@@ -1,0 +1,19 @@
+2024-04-05 19:28:19: == Sync Started by User Command
+2024-04-05 19:28:19: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-05 19:28:19: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-05 19:28:19: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-05 19:28:19: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-05 19:28:19: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-05 19:28:19: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-05 19:28:19: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/EditorFiles/BM_Castle.dze' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/EditorFiles/BM_Castle.dze' (40,571)
+2024-04-05 19:28:19: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/ALTAR_EXTRACTION.map' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/ALTAR_EXTRACTION.map' (387)
+2024-04-05 19:28:19: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types_Noms.txt' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types_Noms.txt' (196)
+2024-04-05 19:28:19: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/GMT_FOB.map' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/GMT_FOB.map' (387)
+2024-04-05 19:28:19: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/CARRIER_TRADER.map' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/CARRIER_TRADER.map' (2,695)
+2024-04-05 19:28:19: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/BLACK_MARKET.map' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/BLACK_MARKET.map' (754)
+2024-04-05 19:28:19: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/SPECIAL_OPS_TRADER.map' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/SPECIAL_OPS_TRADER.map' (1,434)
+2024-04-05 19:28:19: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/db/types_Noms.txt' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/db/types_Noms.txt' (3,924)
+2024-04-05 19:28:19: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/GORKA_TRADER.map' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traders/GORKA_TRADER.map' (794)
+2024-04-05 19:28:19: Save State File D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-04-05 19:28:19: Save State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-04-05 19:28:19: == Sync Complete. Time: 00:00:00, Speed: 0.00/s, OK: 13, Errors: 0

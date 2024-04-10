@@ -1,0 +1,21 @@
+{
+    "version": "2",
+    "isInitialized": 0,
+    "maximumHeirsForOneInheritance": 2,
+    "insuranceCaseWillDeletedAfterSeconds": 86400,
+    "timeInSecondsWhenItemsWillBeTransferAfterDeathOfPlayer": 20,
+    "insurances": [
+        {
+            "id": "5dj8zo2vwe",
+            "price": 10000,
+            "durationInSeconds": 86400,
+            "stayActiveAfterDeath": 0
+        },
+        {
+            "id": "5zp4bvbufs",
+            "price": 15000,
+            "durationInSeconds": 604800,
+            "stayActiveAfterDeath": 0
+        }
+    ]
+}

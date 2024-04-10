@@ -1,0 +1,18 @@
+{
+  "ObjectiveText": "New Travel Objective",
+  "TimeLimit": -1,
+  "Active": 0,
+  "Position": [
+    0,
+    0,
+    0
+  ],
+  "MaxDistance": -1,
+  "MarkerName": "",
+  "ShowDistance": 0,
+  "TriggerOnEnter": 0,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 26,
+  "ID": 15,
+  "ObjectiveType": 3
+}

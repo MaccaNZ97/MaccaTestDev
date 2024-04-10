@@ -1,0 +1,18 @@
+{
+  "m_Version": 12,
+  "DisplayName": "DRUG DEALER",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansiongoldbar"
+  ],
+  "DisplayCurrencyValue": 0,
+  "DisplayCurrencyName": null,
+  "Categories": [
+    "CANNABISPLUS"
+  ],
+  "Items": {}
+}

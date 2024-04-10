@@ -1,0 +1,18 @@
+{
+  "ObjectiveText": "Mutnyizaliv Pier",
+  "TimeLimit": -1,
+  "Active": 0,
+  "Position": [
+    5902.17,
+    2.2435,
+    1983.47
+  ],
+  "MaxDistance": -1,
+  "MarkerName": "Mutnyizaliv Pier",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 26,
+  "ID": 9,
+  "ObjectiveType": 3
+}

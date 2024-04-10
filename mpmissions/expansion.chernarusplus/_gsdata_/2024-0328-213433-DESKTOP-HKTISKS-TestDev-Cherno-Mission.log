@@ -1,0 +1,15 @@
+2024-03-28 21:34:41: == Sync Started by User Command
+2024-03-28 21:34:41: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 21:34:41: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 21:34:41: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 21:34:41: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 21:34:41: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 21:34:41: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 21:34:41: Create Folder D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/EditorFiles
+2024-03-28 21:34:41: Copy New '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/EditorFiles/SkalistyBridge.dze' -> 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/EditorFiles/SkalistyBridge.dze' (199,383)
+2024-03-28 21:34:41: Close Modified Folder (mod-time, acl): /EditorFiles
+2024-03-28 21:34:41: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/env/bear_territories.xml' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/env/bear_territories.xml' (7,838)
+2024-03-28 21:34:41: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/Huffys/Huffy_Bears_events.xml' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/Huffys/Huffy_Bears_events.xml' (2,469)
+2024-03-28 21:34:41: Save State File D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-03-28 21:34:41: Save State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-03-28 21:34:41: == Sync Complete. Time: 00:00:00, Speed: 0.00/s, OK: 4, Errors: 0

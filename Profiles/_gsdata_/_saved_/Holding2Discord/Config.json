@@ -1,0 +1,11 @@
+{
+    "discordWebhookURL": "Put your complete Discord webhook URL here",
+    "discordBotNick": "HoldingBot",
+    "secondsBetweenSends": 60,
+    "enableWhitelist": 0,
+    "enableBlacklist": 0,
+    "notifyOnDeny": 1,
+    "whitelistDenyMessage": "Only whitelisted players are allowed to send to Discord on this server, and you are not.",
+    "blacklistDenyMessage": "You are blacklisted from sending to Discord on this server.",
+    "enableLogging": 0
+}

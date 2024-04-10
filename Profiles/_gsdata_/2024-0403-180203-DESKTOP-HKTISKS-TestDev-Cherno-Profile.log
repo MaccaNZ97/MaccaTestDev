@@ -1,0 +1,29 @@
+2024-04-03 18:02:14: == Sync Started by User Command
+2024-04-03 18:02:14: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-03 18:02:14: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-03 18:02:14: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-03 18:02:14: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-03 18:02:14: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-03 18:02:14: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-03 18:02:14: Create Folder D:/Github/MaccaTestDev/Profiles/CodeLock
+2024-04-03 18:02:14: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/DNA_Keycards/System/Main/KeyCard_Main_System_Config.json' -> 'D:/Github/MaccaTestDev/Profiles/DNA_Keycards/System/Main/KeyCard_Main_System_Config.json' (22,918)
+2024-04-03 18:02:14: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/GroupData/187.bin' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/GroupData/187.bin' (8)
+2024-04-03 18:02:14: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/PersistentServerData.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/PersistentServerData.json' (56)
+2024-04-03 18:02:14: Create Folder D:/Github/MaccaTestDev/Profiles/CodeLock/Logs
+2024-04-03 18:02:14: Copy New '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CodeLock/CodeLockPerms.json' -> 'D:/Github/MaccaTestDev/Profiles/CodeLock/CodeLockPerms.json' (416)
+2024-04-03 18:02:14: Create Folder D:/Github/MaccaTestDev/Profiles/CodeLock/Logs/Access
+2024-04-03 18:02:14: Create Folder D:/Github/MaccaTestDev/Profiles/CodeLock/Logs/Admin
+2024-04-03 18:02:14: Create Folder D:/Github/MaccaTestDev/Profiles/CodeLock/Logs/Attach
+2024-04-03 18:02:14: Create Folder D:/Github/MaccaTestDev/Profiles/CodeLock/Logs/Raid
+2024-04-03 18:02:14: Create Folder D:/Github/MaccaTestDev/Profiles/CodeLock/Logs/Synch
+2024-04-03 18:02:14: Create Folder D:/Github/MaccaTestDev/Profiles/MMG_Storage
+2024-04-03 18:02:14: Copy New '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/MMG_Storage/MMG_Config.json' -> 'D:/Github/MaccaTestDev/Profiles/MMG_Storage/MMG_Config.json' (210)
+2024-04-03 18:02:14: Close Modified Folder (mod-time, acl): /CodeLock/Logs
+2024-04-03 18:02:14: Copy New '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CodeLock/CodeLockConfig.json' -> 'D:/Github/MaccaTestDev/Profiles/CodeLock/CodeLockConfig.json' (439)
+2024-04-03 18:02:14: Close Modified Folder (mod-time, acl): /MMG_Storage
+2024-04-03 18:02:14: Close Modified Folder (mod-time, acl): /CodeLock
+2024-04-03 18:02:14: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CustomKeycards/config.json' -> 'D:/Github/MaccaTestDev/Profiles/CustomKeycards/config.json' (17,256)
+2024-04-03 18:02:14: Copy Over 'D:/Github/MaccaTestDev/Profiles/MPG_Spawner/Points/Point_NWAF.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/MPG_Spawner/Points/Point_NWAF.json' (3,832)
+2024-04-03 18:02:14: Save State File D:/Github/MaccaTestDev/Profiles/_gsdata_/_file_state_v4._gs
+2024-04-03 18:02:14: Save State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/_gsdata_/_file_state_v4._gs
+2024-04-03 18:02:14: == Sync Complete. Time: 00:00:00, Speed: 0.00/s, OK: 16, Errors: 0

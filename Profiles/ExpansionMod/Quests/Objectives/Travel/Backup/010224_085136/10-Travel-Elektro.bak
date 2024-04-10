@@ -1,0 +1,18 @@
+{
+  "ObjectiveText": "Travel to  Cherno Island ",
+  "TimeLimit": -1,
+  "Active": 0,
+  "Position": [
+    6322.59,
+    0.65348,
+    2014.81
+  ],
+  "MaxDistance": -1,
+  "MarkerName": " Cherno Island ",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 26,
+  "ID": 10,
+  "ObjectiveType": 3
+}

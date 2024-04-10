@@ -1,0 +1,6 @@
+2024-03-28 16:54:23: == Sync Started by User Command
+2024-03-28 16:54:23: Start only 1 threads, limited by tasks to run
+2024-03-28 16:54:23: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/cfgenvironment.xml' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/cfgenvironment.xml' (4,001)
+2024-03-28 16:54:23: Save State File D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-03-28 16:54:23: Save State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-03-28 16:54:23: == Sync Complete. Time: 00:00:00, Speed: 0.00/s, OK: 1, Errors: 0

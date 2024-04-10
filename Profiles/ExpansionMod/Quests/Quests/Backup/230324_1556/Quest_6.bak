@@ -1,0 +1,67 @@
+{
+  "ConfigVersion": 21,
+  "ID": 6,
+  "Type": 1,
+  "Title": "Cannibal Camp Chernogorsk",
+  "Descriptions": [
+    "NATO reports a Patrol was killed near the church in the White Orthodox Church in Chernogors.",
+    "Recon the area and kill all Cannibals in the area",
+    "Clear out the church"
+  ],
+  "ObjectiveText": "Short objective desctiption text.",
+  "FollowUpQuest": -1,
+  "Repeatable": 0,
+  "IsDailyQuest": 1,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [
+    {
+      "ClassName": "Mosin9130_Camo",
+      "Amount": 1
+    },
+    {
+      "ClassName": "AD_ACOG_MosinMount",
+      "Amount": 1
+    },
+    {
+      "ClassName": "AD_ACOG",
+      "Amount": 1
+    }
+  ],
+  "Rewards": [],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 1,
+  "QuestGiverIDs": [],
+  "QuestTurnInIDs": [],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 27,
+      "ID": 17,
+      "ObjectiveType": 3
+    },
+    {
+      "ConfigVersion": 27,
+      "ID": 4,
+      "ObjectiveType": 8
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 0,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 0,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 0
+}

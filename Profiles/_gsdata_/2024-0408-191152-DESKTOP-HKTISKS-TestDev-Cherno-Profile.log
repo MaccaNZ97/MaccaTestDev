@@ -1,0 +1,8 @@
+2024-04-08 19:11:52: -- Analysis Started by User Command
+2024-04-08 19:11:52: L: Reading State File D:/Github/MaccaTestDev/Profiles/_gsdata_/_file_state_v4._gs
+2024-04-08 19:11:52: R: Reading State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/_gsdata_/_file_state_v4._gs
+2024-04-08 19:11:52: /SpawnerBubaku/SpawnerBubaku.json: L:TimeSize<>; R:TimeSize<>; Conflict: File Modified on Both Sides
+2024-04-08 19:11:52: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2024-04-08 19:11:52: Changes: 81, Conflicts: 1, CopyTime: 0, FixState: 0, Errors: 0, All: 1443
+2024-04-08 19:11:52: Right to Left: Copy File: 80 
+2024-04-08 19:11:52: -- Analysis Complete. Time 00:00:00, Speed: Many files/s

@@ -1,0 +1,28 @@
+{
+  "ConfigVersion": 6,
+  "ID": 13,
+  "ClassName": "ExpansionQuestNPCAILinda",
+  "Position": [
+    8078.59,
+    463.787,
+    9307.82
+  ],
+  "Orientation": [
+    -86.7657,
+    0,
+    0
+  ],
+  "NPCName": "ALTAR EXTRACTION PILOT",
+  "DefaultNPCText": "Need a lift?",
+  "Waypoints": [],
+  "NPCEmoteID": 46,
+  "NPCEmoteIsStatic": 0,
+  "NPCLoadoutFile": "PilotNPCExtraction",
+  "NPCInteractionEmoteID": 1,
+  "NPCQuestCancelEmoteID": 60,
+  "NPCQuestStartEmoteID": 58,
+  "NPCQuestCompleteEmoteID": 39,
+  "NPCFaction": "InvincibleObservers",
+  "NPCType": 2,
+  "Active": 1
+}

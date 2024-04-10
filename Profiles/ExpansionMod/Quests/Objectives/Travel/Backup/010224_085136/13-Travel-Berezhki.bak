@@ -1,0 +1,18 @@
+{
+  "ObjectiveText": "Travel to Skalisty Island",
+  "TimeLimit": -1,
+  "Active": 0,
+  "Position": [
+    15191.5,
+    2.39862,
+    13814.4
+  ],
+  "MaxDistance": -1,
+  "MarkerName": "Skalisty Island",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 26,
+  "ID": 13,
+  "ObjectiveType": 3
+}

@@ -1,0 +1,21 @@
+2024-03-28 12:53:35: -- Analysis Started by User Command
+2024-03-28 12:53:35: L: Reading State File D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-03-28 12:53:35: R: Reading State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-03-28 12:53:36: /cfgenvironment.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2024-03-28 12:53:36: Changes: 5, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 541
+2024-03-28 12:53:36: Left to Right: Copy File: 4 Delete File: 1 
+2024-03-28 12:53:36: == Sync Started by User Command
+2024-03-28 12:53:36: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 12:53:36: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 12:53:36: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 12:53:36: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 12:53:36: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 12:53:36: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-03-28 12:53:36: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/env/bear_territories.xml' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/env/bear_territories.xml' (7,798)
+2024-03-28 12:53:36: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/db/types_Noms.txt' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/db/types_Noms.txt' (3,924)
+2024-03-28 12:53:36: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/cfgenvironment.xml' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/cfgenvironment.xml' (3,853)
+2024-03-28 12:53:36: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/env/Huffy_bear_territories.xml
+2024-03-28 12:53:36: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion_ce/Expansion_CE_types_Noms.txt' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion_ce/Expansion_CE_types_Noms.txt' (196)
+2024-03-28 12:53:36: Save State File D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-03-28 12:53:36: Save State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-03-28 12:53:36: == Sync Complete. Time: 00:00:01, Speed: 0.00/s, OK: 5, Errors: 0

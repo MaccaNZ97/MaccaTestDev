@@ -1,0 +1,34 @@
+2024-04-01 23:54:25: == Sync Started by User Command
+2024-04-01 23:54:25: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-01 23:54:25: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-01 23:54:25: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-01 23:54:25: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-01 23:54:25: ConnectCloned connected to file:///D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-01 23:54:25: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus
+2024-04-01 23:54:25: Create Folder //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/AJ_MODS
+2024-04-01 23:54:25: Copy New 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/AJ_MODS/AJ_Creatures_types.xml' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/AJ_MODS/AJ_Creatures_types.xml' (5,751)
+2024-04-01 23:54:25: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/db/types_Noms.txt' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/db/types_Noms.txt' (3,924)
+2024-04-01 23:54:25: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/cfgeconomycore.xml' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/cfgeconomycore.xml' (2,065)
+2024-04-01 23:54:25: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/BALOTAAIRCRAFTS.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/BALOTAAIRCRAFTS.json' (5,371)
+2024-04-01 23:54:25: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/GREENMOUNTAIN.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/GREENMOUNTAIN.json' (42,216)
+2024-04-01 23:54:25: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/KAMENKA.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/KAMENKA.json' (40,510)
+2024-04-01 23:54:25: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/KAMENKABOATS.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/KAMENKABOATS.json' (5,326)
+2024-04-01 23:54:25: Create Folder //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/DBO
+2024-04-01 23:54:25: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/KRASNOSTAV.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/KRASNOSTAV.json' (42,357)
+2024-04-01 23:54:25: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/SVETLOYARSK.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion/traderzones/SVETLOYARSK.json' (5,460)
+2024-04-01 23:54:25: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/Huffys/Huffy_Bears_events.xml
+2024-04-01 23:54:25: Copy New 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/DBO/DBO_Creatures_types.xml' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/DBO/DBO_Creatures_types.xml' (2,171)
+2024-04-01 23:54:25: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/Huffys/BIO_Hazard_Bears_types.xml' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/Huffys/BIO_Hazard_Bears_types.xml' (10,705)
+2024-04-01 23:54:25: Close Modified Folder (mod-time, acl): /Custom/AJ_MODS
+2024-04-01 23:54:25: Copy New 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/Huffys/huffy_horror_bear_types.xml' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/Huffys/huffy_horror_bear_types.xml' (20,904)
+2024-04-01 23:54:25: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion_ce/Expansion_CE_types.xml
+2024-04-01 23:54:25: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion_ce/Expansion_CE_types_Noms.txt
+2024-04-01 23:54:25: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion_ce/expansion_events.xml
+2024-04-01 23:54:25: Copy Over 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/Huffys/Huffys_CocaineBear_types.xml' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/Custom/Huffys/Huffys_CocaineBear_types.xml' (5,577)
+2024-04-01 23:54:25: Close Modified Folder (mod-time, acl): /Custom/DBO
+2024-04-01 23:54:25: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types2.xml
+2024-04-01 23:54:26: Copy New 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types.xml' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types.xml' (199,275)
+2024-04-01 23:54:26: Copy New 'D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types_Noms.txt' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types_Noms.txt' (196)
+2024-04-01 23:54:26: Save State File D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-04-01 23:54:26: Save State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-04-01 23:54:26: == Sync Complete. Time: 00:00:01, Speed: 0.00/s, OK: 22, Errors: 0

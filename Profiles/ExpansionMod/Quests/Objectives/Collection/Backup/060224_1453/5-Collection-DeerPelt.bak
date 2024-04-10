@@ -1,0 +1,14 @@
+{
+  "ObjectiveText": "Kill and Skin a Deer, bring back the pelt to Peter at the Trader.",
+  "TimeLimit": -1,
+  "Collections": [],
+  "MaxDistance": 0,
+  "MarkerName": null,
+  "ShowDistance": 1,
+  "AddItemsToNearbyMarketZone": 0,
+  "NeedAnyCollection": 0,
+  "Active": 1,
+  "ConfigVersion": 26,
+  "ID": 5,
+  "ObjectiveType": 4
+}

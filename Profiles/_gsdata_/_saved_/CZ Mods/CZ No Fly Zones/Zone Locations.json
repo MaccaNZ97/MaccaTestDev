@@ -1,0 +1,41 @@
+{
+    "configVersionDontChange": "1.1",
+    "locations": [
+        {
+            "name": "No Fly Zone 1",
+            "position": [
+                7500.0,
+                0.0,
+                7500.0
+            ],
+            "warningRadius": 500,
+            "radius": 300,
+            "warningNotificationTitle": "Warning!",
+            "warningNotificationText": "You are approaching a no fly zone, turn back, or die!"
+        },
+        {
+            "name": "No Fly Zone 2",
+            "position": [
+                4500.0,
+                0.0,
+                4500.0
+            ],
+            "warningRadius": 500,
+            "radius": 300,
+            "warningNotificationTitle": "Warning!",
+            "warningNotificationText": "You are approaching a no fly zone, turn back, whilst you can!"
+        },
+        {
+            "name": "No Fly Zone 3",
+            "position": [
+                1500.0,
+                0.0,
+                1500.0
+            ],
+            "warningRadius": 500,
+            "radius": 300,
+            "warningNotificationTitle": "Warning!",
+            "warningNotificationText": "You are approaching a no fly zone, you have been warned!"
+        }
+    ]
+}

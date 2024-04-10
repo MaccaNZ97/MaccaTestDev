@@ -1,0 +1,30 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Unofficial Car Sales",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansionbanknotehryvnia",
+    "expansiongoldbar"
+  ],
+  "DisplayCurrencyValue": 0,
+  "DisplayCurrencyName": null,
+  "Categories": [
+    "VAGNER CAR PARTS:3",
+    "VAGNER CARS",
+    "BATTERY:3",
+    "CONTAINERS"
+  ],
+  "Items": {
+    "sparkplug": 3,
+    "carradiator": 3,
+    "headlighth7": 3,
+    "hatchbackwheel": 3,
+    "uaz_3909_doors_hood_blue": 3,
+    "zil130_doors_driver_green_rust": 3,
+    "zil130_doors_driver_rust": 3
+  }
+}

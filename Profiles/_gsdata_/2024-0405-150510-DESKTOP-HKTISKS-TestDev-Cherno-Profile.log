@@ -1,0 +1,10 @@
+2024-04-05 15:05:10: -- Analysis Started by User Command
+2024-04-05 15:05:10: L: Reading State File D:/Github/MaccaTestDev/Profiles/_gsdata_/_file_state_v4._gs
+2024-04-05 15:05:10: R: Reading State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/_gsdata_/_file_state_v4._gs
+2024-04-05 15:05:11: /ExpansionMod/Quests/NPCs/QuestNPC_1.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2024-04-05 15:05:11: /ExpansionMod/Quests/NPCs/QuestNPC_2.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2024-04-05 15:05:11: /ExpansionMod/Quests/PersistentServerData.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2024-04-05 15:05:11: Changes: 256, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 1048
+2024-04-05 15:05:11: Left to Right: Copy File: 205 Delete File: 50 
+2024-04-05 15:05:11: Right to Left: Copy File: 1 
+2024-04-05 15:05:11: -- Analysis Complete. Time 00:00:01, Speed: 769 files/s

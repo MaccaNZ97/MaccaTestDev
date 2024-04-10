@@ -1,0 +1,18 @@
+{
+  "ObjectiveText": "TRavel to Novy Sobar",
+  "TimeLimit": -1,
+  "Active": 0,
+  "Position": [
+    7128.34,
+    2,
+    7514.26
+  ],
+  "MaxDistance": -1,
+  "MarkerName": "",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 26,
+  "ID": 15,
+  "ObjectiveType": 3
+}

@@ -1,0 +1,11 @@
+2024-04-06 13:08:14: == Sync Started by User Command
+2024-04-06 13:08:14: Start only 2 threads, limited by tasks to run
+2024-04-06 13:08:14: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-06 13:08:14: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-06 13:08:14: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-06 13:08:14: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-06 13:08:14: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CodeLock/CodeLockPerms.json' -> 'D:/Github/MaccaTestDev/Profiles/CodeLock/CodeLockPerms.json' (416)
+2024-04-06 13:08:15: Copy Over 'D:/Github/MaccaTestDev/Profiles/SpawnerBubaku/SpawnerBubaku.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/SpawnerBubaku/SpawnerBubaku.json' (14,526)
+2024-04-06 13:08:15: Save State File D:/Github/MaccaTestDev/Profiles/_gsdata_/_file_state_v4._gs
+2024-04-06 13:08:15: Save State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/_gsdata_/_file_state_v4._gs
+2024-04-06 13:08:15: == Sync Complete. Time: 00:00:01, Speed: 0.00/s, OK: 2, Errors: 0

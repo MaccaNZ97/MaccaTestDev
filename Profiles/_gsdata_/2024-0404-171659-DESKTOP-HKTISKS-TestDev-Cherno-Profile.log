@@ -1,0 +1,18 @@
+2024-04-04 17:17:06: == Sync Started by User Command
+2024-04-04 17:17:06: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-04 17:17:06: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-04 17:17:06: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-04 17:17:06: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-04 17:17:06: ConnectCloned connected to file:///D:/Github/MaccaTestDev/Profiles
+2024-04-04 17:17:06: ConnectCloned connected to smb://192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles
+2024-04-04 17:17:06: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/MMG_Storage/MMG_Config.json' -> 'D:/Github/MaccaTestDev/Profiles/MMG_Storage/MMG_Config.json' (210)
+2024-04-04 17:17:06: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CodeLock/CodeLockPerms.json' -> 'D:/Github/MaccaTestDev/Profiles/CodeLock/CodeLockPerms.json' (416)
+2024-04-04 17:17:06: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/CodeLock/CodeLockConfig.json' -> 'D:/Github/MaccaTestDev/Profiles/CodeLock/CodeLockConfig.json' (439)
+2024-04-04 17:17:06: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/GroupData/187.bin' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/GroupData/187.bin' (8)
+2024-04-04 17:17:06: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/ExpansionMod/Quests/PersistentServerData.json' -> 'D:/Github/MaccaTestDev/Profiles/ExpansionMod/Quests/PersistentServerData.json' (56)
+2024-04-04 17:17:06: Copy New 'D:/Github/MaccaTestDev/Profiles/MPG_Spawner/Points/Point_BearIsland.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/MPG_Spawner/Points/Point_BearIsland.json' (3,897)
+2024-04-04 17:17:06: Delete File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/MPG_Spawner/Points/Point_Example2.json
+2024-04-04 17:17:06: Copy Over 'D:/Github/MaccaTestDev/Profiles/MPG_Spawner/Config.json' -> '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/MPG_Spawner/Config.json' (154)
+2024-04-04 17:17:06: Save State File D:/Github/MaccaTestDev/Profiles/_gsdata_/_file_state_v4._gs
+2024-04-04 17:17:06: Save State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/_gsdata_/_file_state_v4._gs
+2024-04-04 17:17:06: == Sync Complete. Time: 00:00:00, Speed: 0.00/s, OK: 8, Errors: 0

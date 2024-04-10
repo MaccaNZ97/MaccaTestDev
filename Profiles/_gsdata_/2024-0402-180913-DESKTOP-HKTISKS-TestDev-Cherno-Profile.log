@@ -1,0 +1,6 @@
+2024-04-02 18:09:18: == Sync Started by User Command
+2024-04-02 18:09:18: Start only 1 threads, limited by tasks to run
+2024-04-02 18:09:18: Copy Over '//192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/MPG_Spawner/Points/Point_NWAF.json' -> 'D:/Github/MaccaTestDev/Profiles/MPG_Spawner/Points/Point_NWAF.json' (3,687)
+2024-04-02 18:09:18: Save State File D:/Github/MaccaTestDev/Profiles/_gsdata_/_file_state_v4._gs
+2024-04-02 18:09:18: Save State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/profiles/_gsdata_/_file_state_v4._gs
+2024-04-02 18:09:18: == Sync Complete. Time: 00:00:00, Speed: 0.00/s, OK: 1, Errors: 0

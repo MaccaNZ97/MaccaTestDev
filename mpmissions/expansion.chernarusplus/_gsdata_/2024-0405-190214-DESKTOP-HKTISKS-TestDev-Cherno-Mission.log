@@ -1,0 +1,13 @@
+2024-04-05 19:02:14: -- Analysis Started by User Command
+2024-04-05 19:02:14: L: Reading State File D:/Github/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-04-05 19:02:14: R: Reading State File //192.168.0.157/Servers-Dayz/servers/MaccaTestDev/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2024-04-05 19:02:14: /expansion/traderzones/BALOTAAIRCRAFTS.json: R:TimeSize<>; Conflict: File Modified on Both Sides
+2024-04-05 19:02:14: /expansion/traderzones/GORKA_TRADER.json: L:TimeSize<>; R:TimeSize<>; Conflict: File Modified on Both Sides
+2024-04-05 19:02:14: /expansion/traderzones/GREENMOUNTAIN.json: R:TimeSize<>; Conflict: File Modified on Both Sides
+2024-04-05 19:02:14: /expansion/traderzones/KAMENKA.json: R:TimeSize<>; Conflict: File Modified on Both Sides
+2024-04-05 19:02:14: /expansion/traderzones/KRASNOSTAV.json: R:TimeSize<>; Conflict: File Modified on Both Sides
+2024-04-05 19:02:14: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2024-04-05 19:02:14: Changes: 37, Conflicts: 5, CopyTime: 0, FixState: 0, Errors: 0, All: 579
+2024-04-05 19:02:14: Left to Right: Copy File: 17 Delete File: 14 
+2024-04-05 19:02:14: Right to Left: Copy File: 1 
+2024-04-05 19:02:14: -- Analysis Complete. Time 00:00:00, Speed: Many files/s

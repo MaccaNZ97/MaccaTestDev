@@ -1,0 +1,921 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Vagner Muscle Cars",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    
+    {
+      "ClassName": "chevrolet_camaro",
+      "MaxPriceThreshold": 38000,
+      "MinPriceThreshold": 38000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "chevrolet_camaro_doors_driver",
+        "chevrolet_camaro_doors_codriver",
+        "chevrolet_camaro_doors_hood",
+        "chevrolet_camaro_doors_trunk",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel"
+      ],
+      "Variants": [
+        "chevrolet_camaro_black",
+        "chevrolet_camaro_red",
+        "chevrolet_camaro_yellow",
+        "chevrolet_camaro_pink",
+        "chevrolet_camaro_kkke"
+      ]
+    },
+    {
+      "ClassName": "chevrolet_camaro_black",
+      "MaxPriceThreshold": 38000,
+      "MinPriceThreshold": 38000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "chevrolet_camaro_doors_driver_black",
+        "chevrolet_camaro_doors_codriver_black",
+        "chevrolet_camaro_doors_hood_black",
+        "chevrolet_camaro_doors_trunk_black",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel"
+      ],
+      "Variants": [
+        "chevrolet_camaro_black",
+        "chevrolet_camaro_red",
+        "chevrolet_camaro_yellow",
+        "chevrolet_camaro_pink",
+        "chevrolet_camaro_kkke"
+      ]
+    },
+    {
+      "ClassName": "chevrolet_camaro_kkke",
+      "MaxPriceThreshold": 38000,
+      "MinPriceThreshold": 38000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "chevrolet_camaro_doors_driver_kkke",
+        "chevrolet_camaro_doors_codriver_kkke",
+        "chevrolet_camaro_doors_hood_kkke",
+        "chevrolet_camaro_doors_trunk_kkke",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel"
+      ],
+      "Variants": [
+        "chevrolet_camaro_black",
+        "chevrolet_camaro_red",
+        "chevrolet_camaro_yellow",
+        "chevrolet_camaro_pink",
+        "chevrolet_camaro_kkke"
+      ]
+    },
+    {
+      "ClassName": "chevrolet_camaro_pink",
+      "MaxPriceThreshold": 38000,
+      "MinPriceThreshold": 38000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "chevrolet_camaro_doors_driver_pink",
+        "chevrolet_camaro_doors_codriver_pink",
+        "chevrolet_camaro_doors_hood_pink",
+        "chevrolet_camaro_doors_trunk_pink",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel"
+      ],
+      "Variants": [
+        "chevrolet_camaro_black",
+        "chevrolet_camaro_red",
+        "chevrolet_camaro_yellow",
+        "chevrolet_camaro_pink",
+        "chevrolet_camaro_kkke"
+      ]
+    },
+    {
+      "ClassName": "chevrolet_camaro_red",
+      "MaxPriceThreshold": 38000,
+      "MinPriceThreshold": 38000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "chevrolet_camaro_doors_driver_red",
+        "chevrolet_camaro_doors_codriver_red",
+        "chevrolet_camaro_doors_hood_red",
+        "chevrolet_camaro_doors_trunk_red",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel"
+      ],
+      "Variants": [
+        "chevrolet_camaro_black",
+        "chevrolet_camaro_red",
+        "chevrolet_camaro_yellow",
+        "chevrolet_camaro_pink",
+        "chevrolet_camaro_kkke"
+      ]
+    },
+    {
+      "ClassName": "chevrolet_camaro_yellow",
+      "MaxPriceThreshold": 38000,
+      "MinPriceThreshold": 38000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "chevrolet_camaro_doors_driver_yellow",
+        "chevrolet_camaro_doors_codriver_yellow",
+        "chevrolet_camaro_doors_hood_yellow",
+        "chevrolet_camaro_doors_trunk_yellow",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel",
+        "chevrolet_camaro_wheel"
+      ],
+      "Variants": [
+        "chevrolet_camaro_black",
+        "chevrolet_camaro_red",
+        "chevrolet_camaro_yellow",
+        "chevrolet_camaro_pink",
+        "chevrolet_camaro_kkke"
+      ]
+    },
+    {
+      "ClassName": "chevroletcorvette",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 80000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "interceptor_doors_driver",
+        "interceptor_doors_codriver",
+        "chevroletcorvette_wheel",
+        "chevroletcorvette_wheel",
+        "chevroletcorvette_wheel",
+        "chevroletcorvette_wheel",
+        "chevroletcorvette_wheel"
+      ],
+      "Variants": [
+        "chevroletcorvette_white",
+        "chevroletcorvette_yellow"
+      ]
+    },
+    {
+      "ClassName": "chevroletcorvette_white",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 80000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "interceptor_doors_driver_white",
+        "interceptor_doors_codriver_white",
+        "chevroletcorvette_wheel",
+        "chevroletcorvette_wheel",
+        "chevroletcorvette_wheel",
+        "chevroletcorvette_wheel",
+        "chevroletcorvette_wheel"
+      ],
+      "Variants": [
+        "chevroletcorvette_white",
+        "chevroletcorvette_yellow"
+      ]
+    },
+    {
+      "ClassName": "chevroletcorvette_yellow",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 80000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "interceptor_doors_driver_yellow",
+        "interceptor_doors_codriver_yellow",
+        "chevroletcorvette_wheel",
+        "chevroletcorvette_wheel",
+        "chevroletcorvette_wheel",
+        "chevroletcorvette_wheel",
+        "chevroletcorvette_wheel",
+        "chevroletcorvette_doors_hood_yellow",
+        "chevroletcorvette_doors_trunk_yellow"
+      ],
+      "Variants": [
+        "chevroletcorvette_white",
+        "chevroletcorvette_yellow"
+      ]
+    },
+    
+    {
+      "ClassName": "cougar",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 80000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "grate",
+        "cougar_doors_driver",
+        "cougar_doors_codriver",
+        "cougar_doors_cargo1",
+        "cougar_doors_cargo2",
+        "cougar_doors_cargo3",
+        "cougar_doors_cargo4",
+        "cougar_doors_hood",
+        "cougar_wheel",
+        "cougar_wheel",
+        "cougar_wheel",
+        "cougar_wheel",
+        "cougar_wheel"
+      ],
+      "Variants": [
+        "cougar_black",
+        "cougar_green",
+        "cougar_kamo"
+      ]
+    },
+    {
+      "ClassName": "cougar_black",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 80000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "grate_black",
+        "cougar_doors_driver_black",
+        "cougar_doors_codriver_black",
+        "cougar_doors_cargo1_black",
+        "cougar_doors_cargo2_black",
+        "cougar_doors_cargo3_black",
+        "cougar_doors_cargo4_black",
+        "cougar_doors_hood_black",
+        "cougar_wheel",
+        "cougar_wheel",
+        "cougar_wheel",
+        "cougar_wheel",
+        "cougar_wheel"
+      ],
+      "Variants": [
+        "cougar_black",
+        "cougar_green",
+        "cougar_kamo"
+      ]
+    },
+    {
+      "ClassName": "cougar_green",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 80000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "grate_green",
+        "cougar_doors_driver_green",
+        "cougar_doors_codriver_green",
+        "cougar_doors_cargo1_green",
+        "cougar_doors_cargo2_green",
+        "cougar_doors_cargo3_green",
+        "cougar_doors_cargo4_green",
+        "cougar_doors_hood_green",
+        "cougar_wheel",
+        "cougar_wheel",
+        "cougar_wheel",
+        "cougar_wheel",
+        "cougar_wheel"
+      ],
+      "Variants": [
+        "cougar_black",
+        "cougar_green",
+        "cougar_kamo"
+      ]
+    },
+    {
+      "ClassName": "cougar_kamo",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 80000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "grate_kamo",
+        "cougar_doors_driver_kamo",
+        "cougar_doors_codriver_kamo",
+        "cougar_doors_cargo1_kamo",
+        "cougar_doors_cargo2_kamo",
+        "cougar_doors_cargo3_kamo",
+        "cougar_doors_cargo4_kamo",
+        "cougar_doors_hood_kamo",
+        "cougar_wheel",
+        "cougar_wheel",
+        "cougar_wheel",
+        "cougar_wheel",
+        "cougar_wheel"
+      ],
+      "Variants": [
+        "cougar_black",
+        "cougar_green",
+        "cougar_kamo"
+      ]
+    },
+    
+    {
+      "ClassName": "interceptor",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 120000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "headlighth7",
+        "headlighth7",
+        "interceptor_doors_driver",
+        "interceptor_doors_codriver",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel"
+      ],
+      "Variants": [
+        "interceptor_blue",
+        "interceptor_red",
+        "interceptor_yellow",
+        "interceptor_black"
+      ]
+    },
+    {
+      "ClassName": "interceptor_black",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 120000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "headlighth7",
+        "headlighth7",
+        "interceptor_doors_driver_black",
+        "interceptor_doors_codriver_black",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel"
+      ],
+      "Variants": [
+        "interceptor_blue",
+        "interceptor_red",
+        "interceptor_yellow",
+        "interceptor_black"
+      ]
+    },
+    {
+      "ClassName": "interceptor_blue",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 120000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "headlighth7",
+        "headlighth7",
+        "interceptor_doors_driver_blue",
+        "interceptor_doors_codriver_blue",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel"
+      ],
+      "Variants": [
+        "interceptor_blue",
+        "interceptor_red",
+        "interceptor_yellow",
+        "interceptor_black"
+      ]
+    },
+    {
+      "ClassName": "interceptor_red",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 120000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "headlighth7",
+        "headlighth7",
+        "interceptor_doors_driver_red",
+        "interceptor_doors_codriver_red",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel"
+      ],
+      "Variants": [
+        "interceptor_blue",
+        "interceptor_red",
+        "interceptor_yellow",
+        "interceptor_black"
+      ]
+    },
+    {
+      "ClassName": "interceptor_yellow",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 120000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "headlighth7",
+        "headlighth7",
+        "interceptor_doors_driver_yellow",
+        "interceptor_doors_codriver_yellow",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel",
+        "interceptor_wheel"
+      ],
+      "Variants": [
+        "interceptor_blue",
+        "interceptor_red",
+        "interceptor_yellow",
+        "interceptor_black"
+      ]
+    },
+    
+    {
+      "ClassName": "mustang",
+      "MaxPriceThreshold": 69000,
+      "MinPriceThreshold": 69000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "mustang_doors_driver",
+        "mustang_doors_codriver",
+        "mustang_doors_hood",
+        "mustang_doors_trunk",
+        "mustang_wheel",
+        "mustang_wheel",
+        "mustang_wheel",
+        "mustang_wheel",
+        "mustang_wheel"
+      ],
+      "Variants": [
+        "mustang_red"
+      ]
+    },
+    {
+      "ClassName": "mustang_red",
+      "MaxPriceThreshold": 69000,
+      "MinPriceThreshold": 69000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "mustang_doors_driver_red",
+        "mustang_doors_codriver_red",
+        "mustang_doors_hood_red",
+        "mustang_doors_trunk_red",
+        "mustang_wheel",
+        "mustang_wheel",
+        "mustang_wheel",
+        "mustang_wheel",
+        "mustang_wheel"
+      ],
+      "Variants": [
+        "mustang_red"
+      ]
+    },
+    
+    
+    {
+      "ClassName": "pontiac",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 80000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "pontiac_doors_driver",
+        "pontiac_doors_codriver",
+        "pontiac_doors_hood",
+        "pontiac_doors_trunk",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel"
+      ],
+      "Variants": [
+        "pontiac_blue",
+        "pontiac_green",
+        "pontiac_red",
+        "pontiac_wine_red"
+      ]
+    },
+    {
+      "ClassName": "pontiac_blue",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 80000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "pontiac_doors_driver_blue",
+        "pontiac_doors_codriver_blue",
+        "pontiac_doors_hood_blue",
+        "pontiac_doors_trunk_blue",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel"
+      ],
+      "Variants": [
+        "pontiac_blue",
+        "pontiac_green",
+        "pontiac_red",
+        "pontiac_wine_red"
+      ]
+    },
+    {
+      "ClassName": "pontiac_green",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 80000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "pontiac_doors_driver_green",
+        "pontiac_doors_codriver_green",
+        "pontiac_doors_hood_green",
+        "pontiac_doors_trunk_green",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel"
+      ],
+      "Variants": [
+        "pontiac_blue",
+        "pontiac_green",
+        "pontiac_red",
+        "pontiac_wine_red"
+      ]
+    },
+    {
+      "ClassName": "pontiac_red",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 80000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "pontiac_doors_driver_red",
+        "pontiac_doors_codriver_red",
+        "pontiac_doors_hood_red",
+        "pontiac_doors_trunk_red",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel"
+      ],
+      "Variants": [
+        "pontiac_blue",
+        "pontiac_green",
+        "pontiac_red",
+        "pontiac_wine_red"
+      ]
+    },
+    {
+      "ClassName": "pontiac_wine_red",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 80000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "pontiac_doors_driver_wine_red",
+        "pontiac_doors_codriver_wine_red",
+        "pontiac_doors_hood_wine_red",
+        "pontiac_doors_trunk_wine_red",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel",
+        "pontiac_wheel"
+      ],
+      "Variants": [
+        "pontiac_blue",
+        "pontiac_green",
+        "pontiac_red",
+        "pontiac_wine_red"
+      ]
+    },
+   
+    {
+      "ClassName": "velociraptor6x6",
+      "MaxPriceThreshold": 210000,
+      "MinPriceThreshold": 210000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "velociraptor6x6_doors_driver",
+        "velociraptor6x6_doors_codriver",
+        "velociraptor6x6_doors_cargo1",
+        "velociraptor6x6_doors_cargo2",
+        "velociraptor6x6_doors_hood",
+        "velociraptor6x6_doors_trunk",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel"
+      ],
+      "Variants": [
+        "velociraptor6x6_blue",
+        "velociraptor6x6_red",
+        "velociraptor6x6_white",
+        "velociraptor6x6_kkk"
+      ]
+    },
+    {
+      "ClassName": "velociraptor6x6_blue",
+      "MaxPriceThreshold": 210000,
+      "MinPriceThreshold": 210000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "velociraptor6x6_doors_driver_blue",
+        "velociraptor6x6_doors_codriver_blue",
+        "velociraptor6x6_doors_cargo1_blue",
+        "velociraptor6x6_doors_cargo2_blue",
+        "velociraptor6x6_doors_hood_blue",
+        "velociraptor6x6_doors_trunk_blue",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel"
+      ],
+      "Variants": [
+        "velociraptor6x6_blue",
+        "velociraptor6x6_red",
+        "velociraptor6x6_white",
+        "velociraptor6x6_kkk"
+      ]
+    },
+    {
+      "ClassName": "velociraptor6x6_red",
+      "MaxPriceThreshold": 210000,
+      "MinPriceThreshold": 210000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "velociraptor6x6_doors_driver_red",
+        "velociraptor6x6_doors_codriver_red",
+        "velociraptor6x6_doors_cargo1_red",
+        "velociraptor6x6_doors_cargo2_red",
+        "velociraptor6x6_doors_hood_red",
+        "velociraptor6x6_doors_trunk_red",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel"
+      ],
+      "Variants": [
+        "velociraptor6x6_blue",
+        "velociraptor6x6_red",
+        "velociraptor6x6_white",
+        "velociraptor6x6_kkk"
+      ]
+    },
+    {
+      "ClassName": "velociraptor6x6_white",
+      "MaxPriceThreshold": 210000,
+      "MinPriceThreshold": 210000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "velociraptor6x6_doors_driver_white",
+        "velociraptor6x6_doors_codriver_white",
+        "velociraptor6x6_doors_cargo1_white",
+        "velociraptor6x6_doors_cargo2_white",
+        "velociraptor6x6_doors_hood_white",
+        "velociraptor6x6_doors_trunk_white",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel",
+        "velociraptor6x6_wheel"
+      ],
+      "Variants": [
+        "velociraptor6x6_blue",
+        "velociraptor6x6_red",
+        "velociraptor6x6_white",
+        "velociraptor6x6_kkk"
+      ]
+    }
+   
+
+  ]
+}

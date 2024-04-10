@@ -1,0 +1,37 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BLACK_MARKET",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansionbanknotehryvnia",
+    "expansiongoldbar"
+  ],
+  "DisplayCurrencyValue": 0,
+  "DisplayCurrencyName": null,
+  "Categories": [
+    "SNAFU_WEAPONS",
+    "TACTICALFLAVA_WEAPONS",
+    "SNAFU_AMMO",
+    "SNAFU_BIPODS",
+    "SNAFU_HANDGUARDS",
+    "SNAFU_MAGS",
+    "SNAFU_SCOPES",
+    "SNAFU_STOCKS",
+    "SNAFU_SUPPRESSORS",
+    "TACTICALFLAVA_WEAPONS",
+    "TACTICAL FLAVA ACCESSORIES",
+    "TACTICAL FLAVA MAGS",
+    "TACTICALFLAVA_SCOPES",
+    "TACTICAL FLAVA SUPRESSORS"
+
+
+    
+  ],
+  "Items": {
+    
+  }
+}

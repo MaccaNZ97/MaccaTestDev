@@ -1,0 +1,6 @@
+{
+    "version": "1",
+    "logUsePremiumCoinCSV": 0,
+    "logUsePremiumCoinDiscord": 0,
+    "discordUsePremiumCoinWebhookURL": ""
+}

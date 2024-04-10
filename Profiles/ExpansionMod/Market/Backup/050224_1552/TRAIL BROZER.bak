@@ -1,0 +1,760 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TRAIL BROZER",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "trailbrozer_abstractcamo",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_abstractcamo_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_abstractred",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_abstractred_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_black",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_black_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_blue",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_blue_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_branchcamo",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_branchcamo_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_brown",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_brown_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_browncamo",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_browncamo_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_brownfaux",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_brownfaux_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_daisy",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_daisy_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_gray",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_gray_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_greenpoly",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_greenpoly_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_grey",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_grey_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_hellokitty",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_hellokitty_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_hexcamo",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_hexcamo_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_khaki",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_khaki_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_leafcamo",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_leafcamo_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_nightmare",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "trailbrozer_olive",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_olive_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_pfrogcamo",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_pfrogcamo_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_pink",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_pink_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_pusheen",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_pusheen_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_realtreecamo",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_realtreecamo_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_red",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_red_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_redrust",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "trailbrozer_salmon",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_salmon_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_uscamo",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "trailbrozer_white",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_white_auto"
+      ]
+    },
+    {
+      "ClassName": "trailbrozer_whiterust",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "trailbrozer_wheel",
+        "headlighth7",
+        "headlighth7",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7",
+        "canistergasoline"
+      ],
+      "Variants": [
+        "trailbrozer_whiterust_auto"
+      ]
+    }
+  ]
+}

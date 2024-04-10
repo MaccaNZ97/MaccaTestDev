@@ -1,0 +1,19 @@
+{
+    "version": "1",
+    "isInitialized": 1,
+    "insurancePoints": [
+        {
+            "position": [
+                7397.38,
+                15.168,
+                2268.09
+            ],
+            "orientation": [
+                -16.0,
+                0.0,
+                0.0
+            ],
+            "useExactPosition": 1
+        }
+    ]
+}
