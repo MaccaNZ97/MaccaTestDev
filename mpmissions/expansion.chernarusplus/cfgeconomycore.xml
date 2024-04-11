@@ -33,15 +33,90 @@
     <file name="expansion_types.xml" type="types" />
     <file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
   </ce>
+  <ce folder="Custom">
+    <file name="Basebuildingplus_types.xml" type="types" />
+    <file name="fliptransport_types.xml" type="types" />
+    <file name="UmbrellaClothing_types.xml" type="types" />
+    <file name="KOTH_types.xml" type="types" />
+    <file name="Custom_Cards_types.xml" type="types" />
+    <file name="codelock_types.xml" type="types" />
+    <file name="Mavericks12v_types.xml" type="types" />
+    <file name="Boomlay_things_types.xml" type="types" />
+    <file name="Winter_charnarus_types.xml" type="types" />
+    <file name="BN_Winter_Clothing_types.xml" type="types" />
+    <file name="FD_Missions_types.xml" type="types" />
+    <file name="Advanced_Scopes_types.xml" type="types" />
+    <file name="DayZ_MiniFigurines_V2_types.xml" type="types" />
+    <file name="TrailBrozer_types.xml" type="types" />
+    <file name="Medical_Sobar_types.xml" type="types" />
+    <file name="Vagner_Cars_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Vanilla Types">
+    <file name="types_clothes.xml" type="types" />
+    <file name="types_containers.xml" type="types" />
+    <file name="types_explosives.xml" type="types" />
+    <file name="types_food.xml" type="types" />
+    <file name="types_lootdispatch.xml" type="types" />
+    <file name="types_other.xml" type="types" />
+    <file name="types_tools.xml" type="types" />
+    <file name="types_weapons.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Snafu Weapons">
+    <file name="Snafu_Weapons_types.xml" type="types" />
+    <file name="SnafuWeapons_spawnabletypes.xml" type="spawnabletypes" />
+  </ce>
+  <ce folder="Custom/MMG">
+    <file name="mmg_storage_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/DNA Keycards">
+    <file name="DNA_Keycards_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Jeep Gladiator">
+    <file name="jeep_gladiator_types.xml" type="types" />
+    <file name="jeep_gladiator_spawnabletypes.xml" type="spawnabletypes" />
+  </ce>
+  <ce folder="Custom/Arma2 Remastered">
+    <file name="ext_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Gebs Fishing">
+    <file name="gebs_types.xml" type="types" />
+    <file name="geb_spawnabletypes.xml" type="spawnabletypes" />
+  </ce>
+  <ce folder="Custom/Blacks">
+    <file name="Blacks_FordRaptor_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Flava">
+    <file name="Flava_Tactical_types.xml" type="types" />
+    <file name="TacticalFlava_spawnabletypes.xml" type="spawnabletypes" />
+  </ce>
+  <ce folder="Custom/DBN">
+    <file name="DBN_Novotor_types.xml" type="types" />
+    <file name="DBN_Raptor_spawnabletypes.xml" type="spawnabletypes" />
+    <file name="DBN_Raptor_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/AJ MODS">
+    <file name="AJ_Creatures_types.xml" type="types" />
+    <file name="FOG_types.xml" type="types" />
+    <file name="FOG_spawnabletypes.xml" type="spawnabletypes" />
+    <file name="AJ_Creatures_events.xml" type="events" />
+    <file name="AJ_Creatures_spawnabletypes.xml" type="spawnabletypes" />
+  </ce>
+  <ce folder="Custom/RAGS">
+    <file name="Rags_HuntingCabin_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Drugs">
+    <file name="CannabisPlus_types.xml" type="types" />
+    <file name="Eazy_Drugs_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Blackouts">
+    <file name="Blackouts_CannabisPLus_types.xml" type="types" />
+  </ce>
   <ce folder="Custom/DBO">
     <file name="DBO_Creatures_types.xml" type="types" />
   </ce>
   <ce folder="Custom/Huffys">
-    <file name="Huffys_CocaineBear_types.xml" type="types" />
     <file name="BIO_Hazard_Bears_types.xml" type="types" />
-    <file name="huffy_horror_bear_types.xml" type="types" />
-  </ce>
-  <ce folder="Custom/AJ_MODS">
-    <file name="AJ_Creatures_types.xml" type="types" />
+    <file name="Horror_bears_types.xml" type="types" />
+    <file name="Cocaine_Bear_types.xml" type="types" />
   </ce>
 </economycore>
