@@ -1,7 +1,7 @@
 {
   "EnableDebug": 0,
   "DeleteLogs": 1,
-  "MaxSpareMags": 3,
+  "MaxSpareMags": 10,
   "RandomQuantity": 0,
   "LootChestsLocations": [
     {
@@ -375,14 +375,14 @@
       "keyclass": "CJ_Key4",
       "openable": 0,
       "chest": [
-        "CJ_LootChest_Brown_Small",
-        "CJ_LootChest_Green_Small",
-        "CJ_LootChest_Grey_Small",
-        "CJ_LootChest_Olive_Small",
-        "CJ_LootChest_Tan_Small",
-        "CJ_LootChest_Camo_Small"
+        "CJ_LootChest_Brown_Large",
+        "CJ_LootChest_Green_Large",
+        "CJ_LootChest_Grey_Large",
+        "CJ_LootChest_Olive_Large",
+        "CJ_LootChest_Tan_Large",
+        "CJ_LootChest_Camo_Large"
       ],
-      "LootRandomization": 0,
+      "LootRandomization": 1,
       "light": 0,
       "loot": [
         "LC_Table_Tisy_Death_Arena"
