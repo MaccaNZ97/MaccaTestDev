@@ -382,7 +382,7 @@
         "CJ_LootChest_Tan_Large",
         "CJ_LootChest_Camo_Large"
       ],
-      "LootRandomization": 1,
+      "LootRandomization": 0,
       "light": 0,
       "loot": [
         "LC_Table_Tisy_Death_Arena"
