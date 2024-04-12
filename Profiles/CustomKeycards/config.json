@@ -170,28 +170,28 @@
             "secondsNotify": 5
         },
         {
-            "doorClassName": "evg_barDoor_DoubleWall1",
+            "doorClassName": "evg_gate_Wall1",
             "doorPosition": [
-                1329.57,
-                456.769,
-                114485.3
+                1312.83,
+                458.565,
+                14489.3
             ],
             "doorRotation": [
-                115.07,
+                -64.93,
                 0.0,
-                0.0
+                -0.0
             ],
-            "autoCloseTime": 15.0,
+            "autoCloseTime": 300.0,
             "itemsToOpenDoor": [
-                "evg_keycards_Tisy01"
+                "evg_keycards_Tisy05"
             ],
             "damageToKeycard": 30.0,
             "enableSwipeSound": 1,
             "enableErrorSound": 1,
             "enableCloseSound": 1,
-            "locationName": "Tisy",
+            "locationName": "Tisy_Arena_Of_Death_Entrance",
             "secondsNotify": 5
         }
-        
+       
     ]
 }
