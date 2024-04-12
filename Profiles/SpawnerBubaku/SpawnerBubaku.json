@@ -12,7 +12,7 @@
       "triggercylheight": 30.0,
       "notification": "You have entered Macca's Madhouse",
       "notificationtime": 10,
-      "triggerdelay": 3600,
+      "triggerdelay": 600,
       "spawnerpos": [
         "4770.787 349.043 9892.471",
         "4731.7 340.985 9901.28",
@@ -68,7 +68,7 @@
       "triggercylheight": 0.0,
       "notification": "",
       "notificationtime": 2,
-      "triggerdelay": 3600,
+      "triggerdelay": 600,
       "spawnerpos": [
         "1290.124 457.5089 14466.27",
         "1286.035 460.8403 14471.4",
@@ -120,11 +120,11 @@
       "triggermins": "-1 -0.2 -1",
       "triggermaxs": "1 1 1",
       "triggerradius": 0.0,
-      "triggercylradius": 0.0,
+      "triggercylradius": 10,
       "triggercylheight": 0.0,
       "notification": "",
       "notificationtime": 2,
-      "triggerdelay": 3600,
+      "triggerdelay": 600,
       "spawnerpos": [
         "1251.004 460.8501 14485.38",
         "1254.514 456.8703 14493.27",
@@ -185,7 +185,7 @@
       "triggercylheight": 0.0,
       "notification": "",
       "notificationtime": 2,
-      "triggerdelay": 3600,
+      "triggerdelay": 600,
       "spawnerpos": [
         "1238.099 456.9245 14497.96",
         "1245.572 456.9245 14502.29",
@@ -387,7 +387,7 @@
       "triggercylheight": 0,
       "notification": "",
       "notificationtime": 2,
-      "triggerdelay": 3600,
+      "triggerdelay": 600,
       "spawnerpos": [
         "1172.422 454.2116 14561.58",
         "1233.089 456.8773 14566.49",
@@ -445,7 +445,7 @@
       "triggercylheight": 0,
       "notification": "",
       "notificationtime": 2,
-      "triggerdelay": 3600,
+      "triggerdelay": 600,
       "spawnerpos": [
         "1184.159 456.8729 14508.57",
         "1192.168 456.8735 14505.93",
@@ -506,7 +506,7 @@
       "triggercylheight": 0,
       "notification": "",
       "notificationtime": 2,
-      "triggerdelay": 3600,
+      "triggerdelay": 600,
       "spawnerpos": [
         "1205.461 456.9901 14504.9",
         "1126.756 456.8789 14616.87",
@@ -659,7 +659,7 @@
       "triggercylheight": 0,
       "notification": "",
       "notificationtime": 2,
-      "triggerdelay": 3600,
+      "triggerdelay": 600,
       "spawnerpos": [
         "1109.06 456.9766 14550.26",
         "1114.533 456.9792 14560.08",
@@ -738,7 +738,7 @@
       "triggercylheight": 0,
       "notification": "",
       "notificationtime": 2,
-      "triggerdelay": 3600,
+      "triggerdelay": 600,
       "spawnerpos": [
         "1002.352 456.9313 14622.02",
         "999.2662 456.9313 14615.04",
@@ -813,7 +813,7 @@
       "triggercylheight": 0,
       "notification": "",
       "notificationtime": 2,
-      "triggerdelay": 3600,
+      "triggerdelay": 600,
       "spawnerpos": [
         "1002.352 456.9313 14622.02",
         "999.2662 456.9313 14615.04",
@@ -894,7 +894,7 @@
       "triggercylheight": 0,
       "notification": "",
       "notificationtime": 2,
-      "triggerdelay": 3600,
+      "triggerdelay": 600,
       "spawnerpos": [
         "907.2762 454.3792 14636.08",
         "932.3958 454.0074 14647.81",
@@ -967,7 +967,7 @@
       "triggercylheight": 0,
       "notification": "",
       "notificationtime": 2,
-      "triggerdelay": 3600,
+      "triggerdelay": 600,
       "spawnerpos": [
         "854.9622 456.9651 14669",
         "855.204 456.9651 14665.39",
