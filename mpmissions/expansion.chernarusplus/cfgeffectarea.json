@@ -147,10 +147,10 @@
       "Data": {
         "Pos": [
           13463.0996,
-          0,
+          83,
           3307.8999
         ],
-        "Radius": 200,
+        "Radius": 150,
         "PosHeight": 100,
         "NegHeight": 0,
         "InnerRingCount": 4,
@@ -174,9 +174,9 @@
       "TriggerType": "ContaminatedTrigger",
       "Data": {
         "Pos": [
-          13463,
-          83,
-          3308
+          12996.2002,
+          6,
+          3185
         ],
         "Radius": 100,
         "PosHeight": 100,
@@ -184,7 +184,7 @@
         "InnerRingCount": 4,
         "InnerPartDist": 50,
         "OuterRingToggle": 1,
-        "OuterPartDist": 0,
+        "OuterPartDist": 40,
         "OuterOffset": 0,
         "VerticalLayers": 0,
         "VerticalOffset": 0,
