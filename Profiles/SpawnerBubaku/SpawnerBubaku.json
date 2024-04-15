@@ -60,13 +60,13 @@
     {
       "name": "Tisy Zone One",
       "workinghours": "0-24",
-      "triggerpos": "12 1 1",
+      "triggerpos": "1359.709 455.7303 14471.28|-64.74514 0 0",
       "triggermins": "-1 -0.2 -1",
       "triggermaxs": "1 1 1",
       "triggerradius": 20,
       "triggercylradius": 20,
       "triggercylheight": 10,
-      "notification": "Zone 1",
+      "notification": "Are you sure you want to this? Do NOT go throught those gates!!!!!",
       "notificationtime": 2,
       "triggerdelay": 600,
       "spawnerpos": [
@@ -90,7 +90,7 @@
         "1288.761 456.8484 14490.08"
       ],
       "spawnradius": 1,
-      "bubaknum": 10,
+      "bubaknum": 15,
       "onlyfilluptobubaknum": 0,
       "itemrandomdmg": 0,
       "bubaci": [
@@ -115,7 +115,7 @@
       "triggerradius": 10,
       "triggercylradius": 10,
       "triggercylheight": 10,
-      "notification": "Zone 2",
+      "notification": "",
       "notificationtime": 2,
       "triggerdelay": 600,
       "spawnerpos": [
@@ -146,7 +146,7 @@
         "1260.719 456.8506 14533.64"
       ],
       "spawnradius": 1,
-      "bubaknum": 15,
+      "bubaknum": 10,
       "onlyfilluptobubaknum": 0,
       "itemrandomdmg": 0,
       "bubaci": [
@@ -176,7 +176,7 @@
       "triggerradius": 5,
       "triggercylradius": 5,
       "triggercylheight": 10,
-      "notification": "Zone 3",
+      "notification": "",
       "notificationtime": 2,
       "triggerdelay": 600,
       "spawnerpos": [
@@ -378,7 +378,7 @@
       "triggerradius": 10,
       "triggercylradius": 10,
       "triggercylheight": 10,
-      "notification": "Zone 4",
+      "notification": "Are you still alive?",
       "notificationtime": 2,
       "triggerdelay": 600,
       "spawnerpos": [
@@ -436,7 +436,7 @@
       "triggerradius": 2,
       "triggercylradius": 2,
       "triggercylheight": 10,
-      "notification": "Zone 5",
+      "notification": "",
       "notificationtime": 2,
       "triggerdelay": 600,
       "spawnerpos": [
@@ -497,7 +497,7 @@
       "triggerradius": 3,
       "triggercylradius": 3,
       "triggercylheight": 10,
-      "notification": "Zone 6",
+      "notification": "",
       "notificationtime": 2,
       "triggerdelay": 600,
       "spawnerpos": [
@@ -541,7 +541,7 @@
         "1162.889 461.1057 14570.87"
       ],
       "spawnradius": 1,
-      "bubaknum": 20,
+      "bubaknum": 12,
       "onlyfilluptobubaknum": 0,
       "itemrandomdmg": 0,
       "bubaci": [
@@ -579,7 +579,7 @@
       "triggerradius": 2,
       "triggercylradius": 2,
       "triggercylheight": 10,
-      "notification": "Zone 7",
+      "notification": "",
       "notificationtime": 2,
       "triggerdelay": 3600,
       "spawnerpos": [
@@ -612,7 +612,7 @@
         "1009.051 456.9279 14620.7"
       ],
       "spawnradius": 1,
-      "bubaknum": 15,
+      "bubaknum": 10,
       "onlyfilluptobubaknum": 0,
       "itemrandomdmg": 0,
       "bubaci": [
@@ -650,7 +650,7 @@
       "triggerradius": 6,
       "triggercylradius": 6,
       "triggercylheight": 10,
-      "notification": "Zone 8",
+      "notification": "I am suprised you got this far, but you get much further!",
       "notificationtime": 2,
       "triggerdelay": 600,
       "spawnerpos": [
@@ -691,7 +691,7 @@
         "1018.557 456.921 14627.04"
       ],
       "spawnradius": 1,
-      "bubaknum": 15,
+      "bubaknum": 10,
       "onlyfilluptobubaknum": 0,
       "itemrandomdmg": 0,
       "bubaci": [
@@ -847,7 +847,7 @@
         "950.3044 457.0276 14667.18"
       ],
       "spawnradius": 1,
-      "bubaknum": 15,
+      "bubaknum": 10,
       "onlyfilluptobubaknum": 0,
       "itemrandomdmg": 0,
       "bubaci": [
@@ -919,8 +919,8 @@
         "896.0409 456.9589 14663.39",
         "879.9121 456.9519 14654.51"
       ],
-      "spawnradius": 1,
-      "bubaknum": 15,
+      "spawnradius": 2,
+      "bubaknum": 10,
       "onlyfilluptobubaknum": 0,
       "itemrandomdmg": 0,
       "bubaci": [
@@ -958,7 +958,7 @@
       "triggerradius": 8,
       "triggercylradius": 8,
       "triggercylheight": 10,
-      "notification": "Zone 12",
+      "notification": "You have to get out yet!!!!",
       "notificationtime": 2,
       "triggerdelay": 600,
       "spawnerpos": [
@@ -998,12 +998,12 @@
         "899.0402 456.9426 14716.49",
         "882.9211 456.9547 14694.99"
       ],
-      "spawnradius": 1,
+      "spawnradius": 2,
       "bubaknum": 10,
       "onlyfilluptobubaknum": 0,
       "itemrandomdmg": 0,
       "bubaci": [
-        "CDAJ_ZmbM_Mutant"
+        "CDAJ_ZmbM_Demon"
       ],
       "bubakinventory": []
     },
@@ -1013,12 +1013,12 @@
       "triggerpos": "13734.57 4.341719 3700.877",
       "triggermins": "-1 -0.2 -1",
       "triggermaxs": "1 1 1",
-      "triggerradius": 0,
-      "triggercylradius": 50,
-      "triggercylheight": 0,
+      "triggerradius": 100,
+      "triggercylradius": 100,
+      "triggercylheight": 100,
       "notification": "",
       "notificationtime": 2,
-      "triggerdelay": 3600,
+      "triggerdelay": 300,
       "spawnerpos": [
         "13867.02 0.2833735 3722.332",
         "13612.14 0.7084529 3607.735",
@@ -1039,12 +1039,12 @@
       "triggerpos": "13209.36 2.451413 3539.812",
       "triggermins": "-1 -0.2 -1",
       "triggermaxs": "1 1 1",
-      "triggerradius": 0,
-      "triggercylradius": 50,
-      "triggercylheight": 0,
+      "triggerradius": 100,
+      "triggercylradius": 100,
+      "triggercylheight": 100,
       "notification": "",
       "notificationtime": 2,
-      "triggerdelay": 3600,
+      "triggerdelay": 300,
       "spawnerpos": [
         "13220.36 0.3103511 3433.956",
         "13134.81 0.6964747 3668.414",
@@ -1066,12 +1066,12 @@
       "triggerpos": "12971 3.091482 3392.479",
       "triggermins": "-1 -0.2 -1",
       "triggermaxs": "1 1 1",
-      "triggerradius": 0,
-      "triggercylradius": 50,
-      "triggercylheight": 0,
+      "triggerradius": 100,
+      "triggercylradius": 100,
+      "triggercylheight": 100,
       "notification": "",
       "notificationtime": 2,
-      "triggerdelay": 3600,
+      "triggerdelay": 300,
       "spawnerpos": [
         "13007.96 0.6166865 3414.415",
         "12923.52 0.2817408 3549.544",
