@@ -1009,6 +1009,87 @@
         "CDAJ_ZmbM_TribeDemon_White"
       ],
       "bubakinventory": []
+    },
+    {
+      "name": "BM Shark North",
+      "workinghours": "0-24",
+      "triggerpos": "13734.57 4.341719 3700.877",
+      "triggermins": "-1 -0.2 -1",
+      "triggermaxs": "1 1 1",
+      "triggerradius": 0,
+      "triggercylradius": 50,
+      "triggercylheight": 0,
+      "notification": "",
+      "notificationtime": 2,
+      "triggerdelay": 3600,
+      "spawnerpos": [
+        "13867.02 0.2833735 3722.332",
+        "13612.14 0.7084529 3607.735",
+        "13528.27 0.6018626 3745.526"
+      ],
+      "spawnradius": 20,
+      "bubaknum": 2,
+      "onlyfilluptobubaknum": 0,
+      "itemrandomdmg": 0,
+      "bubaci": [
+        "Classname: Animal_Shark"
+      ],
+      "bubakinventory": []
+    },
+    {
+      "name": "BM Shark Middle",
+      "workinghours": "0-24",
+      "triggerpos": "13209.36 2.451413 3539.812",
+      "triggermins": "-1 -0.2 -1",
+      "triggermaxs": "1 1 1",
+      "triggerradius": 0,
+      "triggercylradius": 50,
+      "triggercylheight": 0,
+      "notification": "",
+      "notificationtime": 2,
+      "triggerdelay": 3600,
+      "spawnerpos": [
+        "13220.36 0.3103511 3433.956",
+        "13134.81 0.6964747 3668.414",
+        "13014.59 0.5820796 3542.487",
+        "13383.58 0.4542567 3692.952"
+      ],
+      "spawnradius": 20,
+      "bubaknum": 2,
+      "onlyfilluptobubaknum": 0,
+      "itemrandomdmg": 0,
+      "bubaci": [
+        "Classname: Animal_Shark"
+      ],
+      "bubakinventory": []
+    },
+    {
+      "name": "BM Shark South",
+      "workinghours": "0-24",
+      "triggerpos": "12971 3.091482 3392.479",
+      "triggermins": "-1 -0.2 -1",
+      "triggermaxs": "1 1 1",
+      "triggerradius": 0,
+      "triggercylradius": 50,
+      "triggercylheight": 0,
+      "notification": "",
+      "notificationtime": 2,
+      "triggerdelay": 3600,
+      "spawnerpos": [
+        "13007.96 0.6166865 3414.415",
+        "12923.52 0.2817408 3549.544",
+        "12638.53 0.6952235 3186.715",
+        "12636.07 0.6264369 3447.456",
+        "13387.9 0.6693446 2926.1"
+      ],
+      "spawnradius": 20,
+      "bubaknum": 3,
+      "onlyfilluptobubaknum": 0,
+      "itemrandomdmg": 0,
+      "bubaci": [
+        "Classname: Animal_Shark"
+      ],
+      "bubakinventory": []
     }
   ]
 }
