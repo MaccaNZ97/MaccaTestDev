@@ -382,9 +382,20 @@
         "CJ_LootChest_Tan_Large",
         "CJ_LootChest_Camo_Large"
       ],
-      "LootRandomization": 0,
+      "LootRandomization": 1,
       "light": 0,
       "loot": [
+        "LC_Table_Tisy_Death_Arena",
+        "LC_Table_Tisy_Death_Arena",
+        "LC_Table_Tisy_Death_Arena",
+        "LC_Table_Tisy_Death_Arena",
+        "LC_Table_Tisy_Death_Arena",
+        "LC_Table_Tisy_Death_Arena",
+        "LC_Table_Tisy_Death_Arena",
+        "LC_Table_Tisy_Death_Arena",
+        "LC_Table_Tisy_Death_Arena",
+        "LC_Table_Tisy_Death_Arena",
+        "LC_Table_Tisy_Death_Arena",
         "LC_Table_Tisy_Death_Arena"
       ]
     }
