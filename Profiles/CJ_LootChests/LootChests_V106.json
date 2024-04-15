@@ -396,7 +396,15 @@
         "LC_Table_Tisy_Death_Arena",
         "LC_Table_Tisy_Death_Arena",
         "LC_Table_Tisy_Death_Arena",
-        "LC_Table_Tisy_Death_Arena"
+        "LC_Table_Tisy_Death_Arena",
+        "GCGN_Ammo_408Chey",
+        "GCGN_Ammo_50Cal",
+        "GCGN_Ammo_762x51",
+        "SNAFU_Ammo_127x55mm",
+        "SNAFU_Ammo_338",
+        "Ammo_762x54",
+        "Ammo_308Win",
+        "SM_Med_FirstAidKit_Grizzly"
       ]
     }
   ],
