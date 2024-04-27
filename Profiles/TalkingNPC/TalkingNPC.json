@@ -1,0 +1,80 @@
+{
+    "NPCDebug": 0,
+    "version": 1,
+    "NPCLocations": [
+        {
+            "name": "sidor",
+            "npcid": 0,
+            "npcpos": "",
+            "npcclass": "",
+            "npcloadout": [
+                ""
+            ],
+            "triggerpos": "4546  71  1814",
+            "triggermins": "-2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggercooldown": 30,
+            "sounds": [
+                "1",
+                "2"
+            ],
+            "emotes": [
+                "1",
+                "44"
+            ]
+        },
+        {
+            "name": "barman",
+            "npcid": 0,
+            "npcpos": "",
+            "npcclass": "",
+            "npcloadout": [
+                ""
+            ],
+            "triggerpos": "4864  123 6671",
+            "triggermins": "-2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggercooldown": 30,
+            "sounds": [
+                "4",
+                "12",
+                "25"
+            ],
+            "emotes": [
+                "1",
+                "44"
+            ]
+        },
+        {
+            "name": "sacharov",
+            "npcid": 0,
+            "npcpos": "",
+            "npcclass": "",
+            "npcloadout": [
+                ""
+            ],
+            "triggerpos": "2453  39  6209",
+            "triggermins": "2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggercooldown": 30,
+            "sounds": [
+                "4",
+                "12",
+                "25"
+            ],
+            "emotes": [
+                "1",
+                "44"
+            ]
+        }
+    ]
+}

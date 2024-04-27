@@ -1,0 +1,56 @@
+{
+    "m_AiSets": [
+        {
+            "m_Name": "Bandit Squad",
+            "m_Spawns": [
+                {
+                    "MovementSpeedLimit": 3.0,
+                    "MovementThreatSpeedLimit": 3.0,
+                    "NumberOfAI": 2,
+                    "Loadout": "BanditLoadout",
+                    "CanBeLooted": 1,
+                    "UnlimitedReload": 0,
+                    "SniperProneDistanceThreshold": 500.0,
+                    "AccuracyMin": 1.25,
+                    "AccuracyMax": 2.5999999046325685,
+                    "ThreatDistanceLimit": 300.0,
+                    "DamageMultiplier": 1.7999999523162842,
+                    "SpawnRadius": 5.0,
+                    "Location": [
+                        5.0,
+                        0.0,
+                        5.0
+                    ],
+                    "Faction": "Shamans",
+                    "NoiseInvestigationDistanceLimit": 50.0
+                }
+            ]
+        },
+        {
+            "m_Name": "Police Squad",
+            "m_Spawns": [
+                {
+                    "MovementSpeedLimit": 3.0,
+                    "MovementThreatSpeedLimit": 3.0,
+                    "NumberOfAI": 2,
+                    "Loadout": "NBCLoadout",
+                    "CanBeLooted": 1,
+                    "UnlimitedReload": 0,
+                    "SniperProneDistanceThreshold": 500.0,
+                    "AccuracyMin": 1.25,
+                    "AccuracyMax": 2.5999999046325685,
+                    "ThreatDistanceLimit": 300.0,
+                    "DamageMultiplier": 1.7999999523162842,
+                    "SpawnRadius": 5.0,
+                    "Location": [
+                        5.0,
+                        0.0,
+                        5.0
+                    ],
+                    "Faction": "Shamans",
+                    "NoiseInvestigationDistanceLimit": 50.0
+                }
+            ]
+        }
+    ]
+}

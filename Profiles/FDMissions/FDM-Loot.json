@@ -2,42 +2,56 @@
     "lootSets": [
         {
             "name": "Lootset1_AK",
+            "setchance": 0.0,
+            "setcrate": "",
+            "setpos": [
+                0.0,
+                0.0,
+                0.0
+            ],
             "items": [
                 {
                     "name": "AK74",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "AKM",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [
                         {
                             "name": "AK74_Hndgrd",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "Mag_AK74_30Rnd",
                             "quantity": 20,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "AK74_WoodBttstck",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "KobraOptic",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [
                                 {
                                     "name": "Battery9V",
                                     "quantity": 50,
+                                    "itemchance": 0.0,
                                     "attachments": [],
                                     "cargo": []
                                 }
@@ -51,52 +65,67 @@
         },
         {
             "name": "looset2_AMMO",
+            "setchance": 0.0,
+            "setcrate": "",
+            "setpos": [
+                0.0,
+                0.0,
+                0.0
+            ],
             "items": [
                 {
                     "name": "Ammo_556x45",
                     "quantity": 15,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "ammo_762x39",
                     "quantity": 15,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "Ammo_556x45",
                     "quantity": 15,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "ammo_762x39tracer",
                     "quantity": 15,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "Ammo_308Win",
                     "quantity": 10,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "ammo_9x39ap",
                     "quantity": 1,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "tf_ammo_338lm",
                     "quantity": 1,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "ammo_expansion_338",
                     "quantity": 10,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 }
@@ -104,22 +133,32 @@
         },
         {
             "name": "LootSet3_Snafu",
+            "setchance": 0.0,
+            "setcrate": "",
+            "setpos": [
+                0.0,
+                0.0,
+                0.0
+            ],
             "items": [
                 {
                     "name": "SNAFU_Standardized_Suppressor_Black",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "SNAFU_LStandardized_Suppressor_Black",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "SNAFU_LNormalized_Suppressor_Black",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 }
@@ -127,38 +166,51 @@
         },
         {
             "name": "LootSet4_Snafu",
+            "setchance": 0.0,
+            "setcrate": "",
+            "setpos": [
+                0.0,
+                0.0,
+                0.0
+            ],
             "items": [
                 {
                     "name": "SNAFU_AR15SPRBK",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [
                         {
                             "name": "SNAFU_Nightforce",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_UBR_Stock",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_TACGripColtA2_BK",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_AFG_02_Black",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_CMAG40300_Black",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         }
@@ -168,34 +220,40 @@
                 {
                     "name": "SNAFU_AR15SPRTAN",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [
                         {
                             "name": "SNAFU_Tango6T_Tan",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_UBR_Stock",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_TACGripColtA2_Tan",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_AFG_02_Tan",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_CMAG40300_Tan",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         }
@@ -205,40 +263,47 @@
                 {
                     "name": "SNAFU_M4300AC_16_GUN",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [
                         {
                             "name": "SNAFU_Aimpoint_ACO",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_MK15",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_UBR_Stock",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_TACGripColtA2_BK",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_AFG_02_Black",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_CMAG40300_Black",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         }
@@ -248,46 +313,54 @@
                 {
                     "name": "SNAFU_M4300AC_14DV_GUN",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [
                         {
                             "name": "SNAFU_MK13",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_Aimpoint_M5",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_MOE_Stock",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_Standardized_Suppressor_Black",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_TACGripColtA2_BK",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_AFG_02_Black",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_BMAG300_Black",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         }
@@ -297,46 +370,54 @@
                 {
                     "name": "SNAFU_M4300AC_14DV_GUN",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [
                         {
                             "name": "SNAFU_MK9",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_Aimpoint_M5",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_MOE_Stock",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_Standardized_Suppressor_Black",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_TACGripColtA2_BK",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_AFG_02_Black",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         },
                         {
                             "name": "SNAFU_BMAG300_Black",
                             "quantity": -1,
+                            "itemchance": 0.0,
                             "attachments": [],
                             "cargo": []
                         }
@@ -347,40 +428,53 @@
         },
         {
             "name": "LootSet5_Medical",
+            "setchance": 0.0,
+            "setcrate": "",
+            "setpos": [
+                0.0,
+                0.0,
+                0.0
+            ],
             "items": [
                 {
                     "name": "SM_Med_FirstAidKit_AFAK",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "SM_Med_FirstAidKit_AI2",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "SM_Med_FirstAidKit_Car",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "SM_Med_FirstAidKit_Grizzly",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "SM_Med_FirstAidKit_IFAK",
                     "quantity": -1,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 },
                 {
                     "name": "SM_Med_FirstAidKit_Salewa",
                     "quantity": 11,
+                    "itemchance": 0.0,
                     "attachments": [],
                     "cargo": []
                 }

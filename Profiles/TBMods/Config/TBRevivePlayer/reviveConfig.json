@@ -12,8 +12,8 @@
         "shock": 0.0
     },
     "enableHospital": 1,
-    "minTimeBeforeHospital": 180,
-    "priceForReviveInHospital": -1,
+    "minTimeBeforeHospital": 10,
+    "priceForReviveInHospital": 20000,
     "reviveHospital": {
         "maxWounds": 0,
         "minWounds": 0,
@@ -23,43 +23,44 @@
     },
     "hospitalSpawnPoints": [
         {
-            "id": "kk5en3qf7u",
+            "id": "wk45kc8500",
             "orientation": [
-                46.99998474121094,
+                78.381,
                 0.0,
                 0.0
             ],
             "point": [
-                10283.5185546875,
-                0.0,
-                2293.035400390625
+                7435.18,
+                16.0786,
+                2208.01
             ]
         },
         {
-            "id": "umerfw0aoa",
+            "id": "wk45kc8501",
             "orientation": [
-                -162.0,
+                78.381,
                 0.0,
                 0.0
             ],
             "point": [
-                0.0,
-                0.0,
-                0.0
+                7435.18,
+                16.0786,
+                2208.01
             ]
         },
         {
-            "id": "mdcmjtdj7n",
+            "id": "wk45kc8502",
             "orientation": [
-                0.0,
+                78.381,
                 0.0,
                 0.0
             ],
             "point": [
-                3767.240234375,
-                0.0,
-                0.0
+                7435.18,
+                16.0786,
+                2208.01
             ]
         }
+
     ]
 }

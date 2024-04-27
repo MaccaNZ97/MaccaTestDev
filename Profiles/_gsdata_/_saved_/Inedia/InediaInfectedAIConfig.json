@@ -64,7 +64,12 @@
                 "DNA_Strongroom_ColourBase": [],
                 "evg_simpleDoor2": [],
                 "DNA_Door_NoLock_ColourBase": [],
-                "evg_simpleDoor3": []
+                "evg_simpleDoor3": [],
+                "evg_gate_wall2": [],
+                "evg_outsideDoor_Wall1": [],
+                "evg_outsideDoor_Wall2": [],
+                "evg_gate_Wall1": []
+
             }
         },
         "BreakingDoorsDestroyAfterOpenChancePercent": {
@@ -792,7 +797,7 @@
             "Animal_HMG_Bear_Radioactive_T1": 1,
             "Animal_HMG_Bear_Nightmare_T3": 1,
             "Animal_HMG_Bear_Nightmare_T4": 1,
-            "Animal_HMG_Bear_Toxic_T2": 1,
+            "Animal_HMG_Bear_Radioactive_T2": 1,
             "Animal_HMG_Bear_Rabid_T0": 1,
             "Animal_HMG_Bear_Radioactive_T3": 1,
             "Animal_HMG_Bear_Rabid_T2": 1,
@@ -803,7 +808,7 @@
             "Animal_HMG_Bear_Infected_T0": 1,
             "Animal_HMG_Bear_Toxic_T0": 1,
             "Animal_HMG_Bear_Toxic_T1": 1,
-            "Animal_HMG_Bear_Radioactive_T2": 1,
+            "Animal_HMG_Bear_Toxic_T2": 1,
             "Animal_HMG_Bear_Toxic_T3": 1,
             "Animal_HMG_Bear_Toxic_T4": 1,
             "Animal_HMG_Bear_Radioactive_T5": 1,
@@ -816,10 +821,10 @@
             "Animal_HMG_Bear_Toxic_Vanilla": 1,
             "Animal_HMG_Bear_Rabid_Vanilla": 1,
             "Animal_HMG_Bear_Radioactive_Vanilla": 1,
-            "CDAJ_ZmbM_Mutant_Pale": 1,
+            "Animal_HMG_Bear_Nightmare_T5": 1,
             "CDAJ_ZmbM_NBC_Space": 1,
             "Animal_HMG_Bear_Bloody_Vanilla": 1,
-            "Animal_HMG_Bear_Nightmare_T5": 1,
+            "CDAJ_ZmbM_Mutant_Pale": 1,
             "ZmbM_BloodSucker_hard": 1,
             "ZmbM_BloodSucker_medium": 1,
             "ZmbM_NBC_Yellow": 1,

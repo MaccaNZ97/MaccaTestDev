@@ -1,0 +1,34 @@
+{
+    "m_EnemySets": [
+        {
+            "m_Name": "ZombieHorde",
+            "m_Spawns": [
+                {
+                    "m_Location": [
+                        5.0,
+                        0.0,
+                        5.0
+                    ],
+                    "m_Quantity": 2,
+                    "m_EnemyType": "ZmbM_PatrolNormal_Flat",
+                    "m_SpawnRadius": 5.0
+                }
+            ]
+        },
+        {
+            "m_Name": "BanditSquad",
+            "m_Spawns": [
+                {
+                    "m_Location": [
+                        -5.0,
+                        0.0,
+                        -5.0
+                    ],
+                    "m_Quantity": 2,
+                    "m_EnemyType": "ZmbM_PatrolNormal_Autumn",
+                    "m_SpawnRadius": 5.0
+                }
+            ]
+        }
+    ]
+}

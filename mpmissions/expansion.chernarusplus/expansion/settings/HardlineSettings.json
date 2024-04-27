@@ -21,16 +21,16 @@
   "DefaultItemRarity": 2,
   "EntityReputation": {
     "Animal_GallusGallusDomesticus": 1,
-    "eAIBase": 150,
-    "AnimalBase": 20,
-    "ZmbM_SoldierNormal_Base": 20,
-    "Animal_UrsusArctos": 50,
-    "ZmbM_NBC_Grey": 20,
-    "ZombieBase": 20,
-    "PlayerBase": -100,
-    "Animal_UrsusMaritimus": 50,
-    "ZmbM_NBC_Yellow": 20,
-    "CDAJ_ZmbM_Demon": 0
+    "eAIBase": 100,
+    "AnimalBase": 10,
+    "ZmbM_SoldierNormal_Base": 15,
+    "Animal_UrsusArctos": 10,
+    "ZmbM_NBC_Grey": 15,
+    "ZombieBase": 15,
+    "PlayerBase": -1000,
+    "Animal_UrsusMaritimus": 10,
+    "ZmbM_NBC_Yellow": 15,
+    "CDAJ_ZmbM_Demon": 150
   },
   "ItemRarity": {
     "ak101_black": 3,
@@ -81,7 +81,6 @@
     "ammo_expansion_m203_sticky_smoke_white": 4,
     "ammo_expansion_m203_sticky_smoke_yellow": 4,
     "ammobox_expansion_338_15rnd": 4,
-    
     "cmskit": 4,
     "expansion_anpeq15_red": 4,
     "expansion_awm": 4,
@@ -533,7 +532,6 @@
     "vr80_gun": 5,
     "vr80_magazine_10rd": 5,
     "vr80_magazine_5rd": 5,
-   
     "expansionlhd": 8,
     "expansionsupplysignal": 8
   }
